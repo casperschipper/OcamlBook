@@ -1,7 +1,0 @@
-type stream =
-  St of Float
-| Stream of [Float]
-
-let rec seq lst =
-  
-  
