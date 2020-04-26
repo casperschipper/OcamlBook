@@ -1,0 +1,4505 @@
+<a id="the-symphonic-drummer">
+
+# THE SYMPHONIC DRUMMER
+
+***What does it take to be able to play the drum set part in a symphonic
+orchestra at a high artistic level?***
+
+->Royal Conservatoire The Hague, The Netherlands, April 2020<-
+
+->Student: Martin Ansink<-
+
+->Instrument: Classical Percussion<-
+
+->Student number: 0005777<-
+
+->Supervisor: Marlon Titre<-
+
+->Master Circle leader: Paul Craenen<-
+
+
+<a id="preface">
+
+## Preface
+
+*When people ask me about my profession the next dialogue often occurs:*
+
+*Me: 'I play timpani and percussion in the Residentie Orchestra, that's
+a Symphonic Orchestra based in The Hague.'*
+
+*Reply: 'Ah, so you are a drummer.'*
+
+*Me: 'Well, no, not exactly. I can play a little bit of drums and do
+sometimes play the drums in the orchestra. But I don't consider myself a
+'real' drummer.'*
+
+And then people look confused......
+
+<a id="chapters-">
+
+# Chapters 
+ 
+
+* [1. Introduction](#introduction)
+
+    - [Methodology](#methodology)
+
+    - [Structure](#structure)
+
+* [2. Reading Guide](#reading-guide)
+
+* [3. History](#history)
+
+    - [Origin of jazz music](#origin-of-jazz-music)
+
+    - [Gershwin and Broadway](#gershwin-and-broadway)
+
+    - [Symphonic Jazz](#symphonic-jazz)
+
+    - [Bernstein and jazz](#bernstein-and-jazz)
+
+    - [Other composers](#other-composers)
+
+* [4. No business as usual](#no-business-as-usual)
+
+    - [Limitation of available players](#limitation-of-available-players)
+
+    - [Story](#story)
+
+    - [Education](#education)
+
+* [5. The major Triad](#the-major-triad)
+
+    - [Conductor](#conductor)
+
+    - [Trust](#trust)
+
+    - [Orchestra](#orchestra)
+
+    - [Tacit knowledge](#tacit-knowledge)
+
+    - [Drummer](#drummer)
+
+    - [Personal skills - It is not about you](#personal-skills---it-is-not-about-you)
+
+    - [Musical skills - The Three T's](#musical-skills---the-three-ts)
+
+    - [Technical Skills](#technical-skills)
+
+    - [The triad in cooperation](#the-triad-in-cooperation)
+
+* [6. Interpretation and preparation of parts](#interpretation-and-preparation-of-parts)
+
+    - [Parts are unreliable](#parts-are-unreliable)
+
+    - [Preparation: General](#preparation-general)
+
+    - [Summary of the necessary technical and musical demands](#summary-of-the-necessary-technical-and-musical-demands)
+
+    - [Gershwin](#gershwin)
+
+    - [Bernstein](#bernstein)
+
+    - [Variation in interpretation](#variation-in-interpretation)
+
+    - [Tempo drops](#tempo-drops)
+
+    - [On top or not](#on-top-or-not)
+
+    - [Jim Gwin's interpretation](#_Toc38200917)
+
+    - ['On the Town', Three Dance Episodes](#on-the-town-three-dance-episodes)
+
+    - [Symphonic Dances from West Side Story:](#symphonic-dances-from-west-side-story)
+
+* [7. Discussion](#discussion)
+
+    - [Like no other](#like-no-other)
+
+    - [How do the experts cope?](#how-do-the-experts-cope)
+
+    - [Differences](#differences)
+
+    - [My assumptions and changes](#my-assumptions-and-changes)
+
+    - [Research into practice](#research-into-practice)
+
+    - [Limitations](#limitations)
+
+    - [Further research](#further-research)
+
+    - [Recommendations](#recommendations)
+
+* [8. Conclusion](#conclusion)
+
+[Acknowledgements](#acknowledgements)
+
+[Appendix A. Analysis of Parts Gershwin and Bernstein
+44](#appendix-a.-analysis-of-parts-gershwin-and-bernstein)
+
+[Appendix B. Analysis and Comparison of the drum parts as performed and
+interpreted by the drummer on recordings from Bernstein.
+51](#appendix-b.-analysis-and-comparison-of-the-drum-parts-as-performed-and-interpreted-by-the-drummer-on-recordings-from-bernstein.)
+
+[Appendix C Musical skills 56](#appendix-c-musical-skills)
+
+[Appendix D Personal skills 57](#appendix-d-personal-skills)
+
+[Appendix E Technical skills 58](#appendix-e-technical-skills)
+
+[Appendix F. Summary of the Master class by Jerry (Gerald) Scholl on
+Drums in Orchestra.
+59](#appendix-f.-summary-of-the-master-class-by-jerry-gerald-scholl-on-drums-in-orchestra.)
+
+[Appendix G. My observations on rehearsals and concerts
+61](#appendix-g.-my-observations-on-rehearsals-and-concerts)
+
+[Appendix H. Interview Hans Leenders
+63](#appendix-h.-interview-hans-leenders)
+
+[Appendix I. Interview Marcel Serierse
+65](#appendix-i.-interview-marcel-serierse)
+
+[Appendix J. Interview Arie den Boer
+69](#appendix-j.-interview-arie-den-boer)
+
+[Appendix K. Interview Joost Gevers
+72](#appendix-k.-interview-joost-gevers)
+
+[Appendix L. Interview during lessons Jim Gwin
+74](#appendix-l.-interview-during-lessons-jim-gwin)
+
+[Bibliography 77](#_Toc38200943)
+
+<a id="introduction">
+
+<a id="introduction--">
+
+# 1. Introduction  
+
+The classic orchestral world is changing fast. Next to playing the
+standard repertoire, all professional orchestras are expanding their
+activities in search of innovative ways to connect with new and existing
+audiences.
+
+My orchestra, The Residentie Orchestra[^1], started with the Symphonic
+Junction program in 'Het Paard' a few years ago. The Orchestra calls it:
+'an exciting crossroad where Residentie Orchestra The Hague encounters
+new artists, genres and audiences'.[^2]
+
+In these programs, the orchestra collaborates with artists such as
+Anneke van Giersbergen, Sven Figee, Farid Sheek, Phillipe Elan. And
+bands like De Staat, Splendid, Spark and Peter Beets trio. Exploring all
+different kinds of musical styles from jazz, French Chansons to World
+music and Punk. For every concert there are arrangements of the artists
+music made especially for this collaboration. It is a successful
+cooperation and some of the live concerts are released on CD and other
+media.
+
+Due to these new activities, the percussionists in the orchestra are
+faced with new repertoire which includes other than standard percussion
+instruments.[^3] These instruments and their playing techniques create
+new challenges. When performing new pieces, the orchestra also receive
+emails from Living composers the orchestra collaborates with, like Julia
+Wolff, demand that the percussionist/drummer is a high-level
+contemporary-music specialist fluent on drum set and capable of reading
+complicated rhythms. This combination of drum set and classical
+percussion playing occurs more often than before and is not limited to
+my orchestra. The Indianapolis Percussion section gave a clinic at the
+PASIC17 about the nontraditional skills that orchestral percussionists
+are increasingly called upon over the course of a typical season[^4]
+
+The boundaries between the classic and band culture seem to fade. In my
+orchestral percussion section, we have discussions on how to fill in
+these new occurring issues in an artistically convincing manner. We are
+not educated as drummers, even though some of us do play drum set and
+the amount of ['real'](#reading-guide) drummers who can work with an
+orchestra at a high artistic level are limited in the Netherlands. I
+have played drum set parts with my orchestra and that felt most of the
+time uncomfortable. When sitting next to a 'real' drummer playing with
+my orchestra, it seemed some of the problems I encounter did not happen
+with them. This made me curious about what it is they do or do not do to
+make it work and led to my research question:
+
+**What does it take to be able to play the drum set part in a symphonic
+orchestra at a high artistic level?**
+
+This led to some secondary questions.
+
+-   What are alleged drum skills for drummers in a band?
+
+-   Do they also apply when working with a symphonic orchestra?
+
+-   How do the experts in the field cope with this?
+
+-   How does this apply to commonly programmed Bernstein and Gershwin
+    pieces?
+
+With the answer to this question I hope to be able to lift my own
+orchestral drum set playing to a higher level, and thus be able to
+fulfill the role of the symphonic drummer in a better way. After
+finishing this research, I will try to turn these results into an
+educational module which can be added to the curriculum of
+conservatories so the pool of competent orchestral drum set players can
+grow.
+
+During my search I have not encountered any research on the specific
+relation between the drummer and conductors. This relation and
+interaction seemed of great importance to achieve a high artistic level.
+There is research on conductors and orchestras, and there are
+biographies and books about conducting in general. These works discuss
+the ways conductors approach working with orchestral musicians in
+different sections. However, I have not found literature specifically
+discussing how to work with drummers.
+
+There is literature on classical percussion playing in the orchestra,
+but no literature on interpretation and preparation of specific
+orchestral drum parts. Therefore, I had to find an alternative way to
+get information first hand by experienced musicians to get more insight
+into this specific relationship.
+
+<a id="methodology">
+
+## Methodology
+
+
+The method I have chosen is a mix of different techniques. My first step
+was to take drum lessons with an expert in the field. I got the chance
+to work with Jim Gwin, he is the drummer of the Boston Pops Orchestra
+(BPO).[^5] Since 2005 he is the permanent drummer of the BPO and drummer
+in the Boston Esplanade Orchestra.[^6] In both orchestras he played drum
+set in a lot of programs with a variety of styles, musicians and
+conductors. Next to this he is a teacher at New England Conservatory
+(NEC) in Boston[^7]. At NEC he teaches drum set to the classical
+percussion department, preparing them to play drum set in general and
+specifically on the parts which occur in the BPO programs.
+
+I visited him in Boston and took lessons where we worked on the parts of
+Symphonic Dances of West Side Story and On the Town, three dance
+episodes and some overall drum skills. He invited me to watch a rhythm
+section (Piano, Guitar, Bass, Drums) and full orchestra rehearsal. The
+next day I listened to the corresponding concert of the BPO[^8]. During
+the lessons I interviewed[^9] him and we reflected on how Jim approaches
+parts and how he deals with the soloist, conductor and the
+orchestra.[^10] These lessons and interviews were of great importance
+for my research. Drum parts give limited information so there is room
+for the drummer to interpret the part. Hearing the experts'
+interpretation and working on the drum parts myself would give me an
+in-depth insight in what is technically and musically needed to perform
+these in a symphonic orchestral setting.
+
+I interviewed other experienced drummers and conductors who are
+frequently asked to conduct and play these collaborative programs. I
+observed them while rehearsing and performing with an orchestra and
+interviewed them about their approach and insights. Next to technical
+and musical demands we spoke about the personal skills a drummer would
+need. In this way the specific relation between the conductor, drummer
+and orchestra could be put into words. Out of a book on the role of the
+drummer I extracted a list of personal, technical and musical skills a
+professional drummer would need according to his fellow musicians. This
+list was used as a guideline to compare and complete the role of the
+drummer in a band in relation to role of the drummer in a symphonic
+setting.
+
+When talking to the drummers it became clear that they relied heavily on
+historic knowledge of the 'greats'.[^11] Enabling them to deliver the
+right sound, feel and groove for every piece. I reviewed literature and
+searched for a relation between the development of drums to the time
+period of Gershwin and Bernstein. This happens to be the time where jazz
+and symphonic music started to merge.
+
+Creating a list of symphonic orchestral pieces which contained drum
+parts made it clear that I had to make a choice to give focus to this
+research. The list of parts, specific drum rhythms and their specific
+techniques would be endless if all the crossovers and musical styles
+symphonic orchestras are exploring would be taken into account.
+
+I decided to limit the list to pieces by Gershwin and Bernstein and
+analyzed these to find out which rhythms the drummer must be able to
+play. These pieces are commonly programmed in orchestral seasons. My own
+experience with these would help to understand the inner works of
+performing these drum part more thoroughly than going into the
+endlessness of al styles.
+
+By analyzing recordings of major orchestras I extracted how their
+drummers interpreted the parts and find out if there would be some
+common ground. Combining this information would lead me to an answer to
+my research question.
+
+<a id="structure">
+
+## Structure
+
+At the end of my research are twelve appendixes with analysis of
+recordings, parts and interpretations by drummers. Interviews with
+expert drummers and conductors and elaborations of rehearsal and concert
+observations. All these appendixes are of great importance because they
+give insight in the inner works of playing drum set and all other things
+a drummer encounters when performing with a conductor and an orchestra.
+I refer frequently to these observations and interviews in [*chapter
+5*](#the-major-triad), [*chapter
+6*](#interpretation-and-preparation-of-parts) and my Discussion
+[*chapter 7*](#discussion).
+
+Especially for the drummers and percussionists: It is worth reading
+them!
+
+[*Appendix A*](#appendix-a.-analysis-of-parts-gershwin-and-bernstein) is
+an analysis of the drum parts used in Gershwin and Bernstein pieces. It
+contains a short description of the drum part, the sheet music and links
+to the corresponding video and/or audio fragments. A summary of the
+required technical and musical skills can be found in [*chapter
+6*](#interpretation-and-preparation-of-parts).
+
+In [*Appendix
+B*](#appendix-b.-analysis-and-comparison-of-the-drum-parts-as-performed-and-interpreted-by-the-drummer-on-recordings-from-bernstein.)
+are different recordings of 'On the Town' and 'West Side Story'. The
+drum parts and their interpretation by the drummers are analyzed and
+compared to see if there is common ground on interpretation. If drummers
+deviated from the part, I made notes of what is different. General
+remarks on recordings and the drum part can also to be found here.
+
+In [*Appendix C*](#appendix-c-musical-skills), Musical skills [*Appendix
+D*](#appendix-d-personal-skills) Personal skills and [*Appendix
+E*](#appendix-e-technical-skills) Technical skills for drummers are
+extracted out of a book called: "The Drummer's role" by Jose Duque.[^12]
+This book contains a section with a series of interviews with many
+musicians and producers giving their views on what the role of the
+drummer should be and how they approach situations when working with
+drummers in the studio or live. It is written with 'real' drummers in
+mind and does not apply one to one for drummers in a symphonic
+orchestral setting. I used this extraction as a guideline in [*chapter
+5*](#the-major-triad) to compare and add what came out of the
+interviews. In this way I completed the picture of where the two worlds
+meet or deviate.
+
+[*Appendix
+F*](#appendix-f.-summary-of-the-master-class-by-jerry-gerald-scholl-on-drums-in-orchestra.)
+and [*appendix
+G*](#appendix-g.-my-observations-on-rehearsals-and-concerts) contain
+observations. They describe a masterclass I attended on drums in an
+orchestral setting. And observations of rehearsals and concerts by the
+drummers and conductors I interviewed.
+
+When working with an orchestra, the drummer has to work with a classical
+conductor. This is something a drummer does not encounter in other
+settings. Big bands do have a conductor/leader but that does not work in
+the same way as the classical approach, as Abel Mark convincingly
+explains in his work.[^13] For this reason I also interviewed classical
+conductors who worked with drummers in an orchestral setting.[^14] I
+wanted to know what their expectation of the role of the drummer is and
+how they approach and prepare these situations. They have worked with
+both classical percussionists who played drum parts and with 'real'
+drummers playing the drum parts.
+
+[*Appendix H*](#appendix-h.-interview-hans-leenders) Hans Leenders
+conductor, [*Appendix I*](#appendix-i.-interview-marcel-serierse) Marcel
+Serierse drummer, [*Appendix J*](#appendix-j.-interview-arie-den-boer)
+Arie den Boer drummer, [*Appendix
+K*](#appendix-k.-interview-joost-gevers) Joost Gevers conductor and
+[*Appendix L*](#appendix-l.-interview-during-lessons-jim-gwin) Jim Gwin
+drummer BPO, are the written interviews with these expert conductors and
+drummers.
+
+After the [*Introduction*](#introduction) and [*Reading
+Guide*](#reading-guide) the research starts with the History [*Chapter
+3*](#history): The interviewed drummers gave great importance to the
+history of the drum set and their drummers. To be able to play in style
+you have to know where it derives from. I made a connection with the
+evolution of drums and connect them with the timeframe of Gershwin and
+Bernstein. In this way we can have a better understanding of
+interpretations in specific parts.
+
+In [*Chapter 4*](#no-business-as-usual) I reflect on my own experience
+when playing drums in the orchestra and, in a broader sense, how the
+research question is related to my everyday work. From the decision
+making process when dealing with these 'hybrid' parts to the education
+in the Netherlands and the limited number of capable drummers who can
+function with an orchestra.
+
+In [*Chapter 5*](#the-major-triad) the main characters appear. The
+Conductor, the Orchestra and the Drummer.
+
+Their individual role is first discussed separately and the next section
+shows how interdependent they are to make it all work.
+
+[*Chapter 6*](#interpretation-and-preparation-of-parts) is the part
+about the parts. How can and how do drummers prepare and interpret their
+parts? It includes a summary of the technical and musical demands the
+drummer needs to perform Gershwin and Bernstein parts. It also contains
+an interesting section on how Jim Gwin approaches 'On the Town' and
+'West Side Story'.
+
+This all leads to [*Chapter 7*](#discussion) Discussion. My major
+findings are put in perspective here. How this research process changed
+my playing and recommendations for the sector.
+
+In *[Chapter 8](#conclusion)* Conclusion you find the answer of my
+research question.
+
+<a id="reading-guide">
+
+# 2. Reading Guide
+
+*'Real' Drummer: *
+
+*Someone who is an educated and experienced drummer. Able to perform in
+band settings.*
+
+*Groove related music:*
+
+*With groove related music I mean pop, jazz, fusion related songs. Music
+with an ongoing steady pulse.*
+
+*Symphonic based, symphonic jazz:*
+
+*Music from the symphonic repertoire, including Gershwin and Bernstein.*
+
+*The 'greats':*
+
+*Historically important drummers who developed and shaped the evolution
+of drums.*
+
+<a id="history">
+
+# 3. History
+
+An extraction of advice given to me during the interviews:
+
+"Listen to the legends of the early years. Zutty Singleton, Baby Doods,
+papa Joe Jones, Shelly Manne."
+
+"When I studied I researched who played. The Steve Gadd's, Vinnie
+Colaiuta's and Dave Weckel's. Where did they get their inspiration
+from?. How did it sound back then?"
+
+"Gene Krupa, He play's underneath, but so strong."
+
+"Shuffle like Bernard Purdie."
+
+All interviewed drummers were very aware and studied the sound and way
+the 'greats' played their drums and applied this knowledge to interpret
+the drum parts they encountered when playing drums in the symphonic
+orchestra.
+
+Because the drummer is the so-called expert in the field of interpreting
+the drum parts it is necessary to have an understanding of the historic
+tradition and development of the drum set. In this section I focus on
+the connection of the development of drums to Gershwin and Bernstein.
+Starting from the origin of jazz music in and around Saint Louis and its
+connection to Gershwin and Broadway. Through the development of the
+swing era and the connection with studio musicians and Bernstein.
+
+<a id="origin-of-jazz-music">
+
+## Origin of jazz music
+
+*Ragtime* was born in the African-American communities of St. Louis in
+the 1890's. This style takes traditional march form, much like the music
+of John Philip Sousa, and adds the syncopated, or "ragged", rhythms of
+African music.[^15] The instruments that the early jazz drummers used
+were quite different than we currently use. Originated in marching
+culture the section consisted of two percussionists, one snare drum
+player and one bass drum player.[^16] After the invention of the bass
+drum pedal in 1894 or 1895 by "Dee Dee "Chandler this could be performed
+by one player. In 1894 William F. Ludwig used a wooden heel pedal when
+playing with dance bands.[^17] Some players also still retained to
+double drumming, where the side and bass drum were played simultaneously
+by hand.[^18]
+
+Warren "Baby" Dodds is considered one of the first great jazz drummers
+in history. He started working in marching bands in New Orleans. Joined
+the Fate Marable's riverboat band in 1918 where he met Louis
+Armstrong.[^19] The style of playing of the early drummers was at first
+very military-oriented, and used an assorted variety of rolls, flares,
+ruffs, and other
+
+rudiments. They didn\'t maintain the beat on the cymbals, but used both
+sticks upon the snare drum, blocks, and rims for the most part[^20]. We
+do know that a drum solo was only rarely played in early jazz. Zutty
+Singleton recalls that the drummer played a subsidiary role: \"We just
+kept the rhythm going and hardly ever took a solo."[^21]
+
+!{image1}
+
+*Dixieland* had his heydays in the 1920 and was also called hot jazz or
+New Orleans Style and spread from New Orleans to Chicago and New York.
+The forerunner of the hi-hat, the so called snowshoe, was invented, and
+could produce a short staccato or longer splash sound.[^22] Chicago
+Style drummers experimented with cymbals and bass drums. They allowed
+cymbals to ring, instead of choking them as been done in Ragtime.[^23]
+In these days the first jazz recorded was recorded by an orchestra of
+white musicians called the Original Dixieland Jass Band.
+
+First Jazz recording 1917 <https://www.youtube.com/watch?v=5WojNaU4-kI>
+
+<a id="gershwin-and-broadway">
+
+## Gershwin and Broadway
+
+In this period Dave Tough and Gene Krupa came out of Chicago and later
+settled in New York. They were greatly influenced by Dodds. Gene Krupa
+played in the Red Nichols Orchestra which was the pit band for the 1927
+musical Strike up the Band and Girl Crazy by George Gershwin.[^24] This
+pit band also contained great jazz musicians like Benny Goodman and Glen
+Miller. Gene Krupa had an explosive style of playing and soloing and his
+influence in the evolution of drumming is almost immeasurable. He is
+responsible for popularizing the instrument. Due to him, drums and
+drummers moved from the back of the band into a position of
+prominence.[^25]
+
+Davey Tough made the greatest impact when playing in the Woody Herman
+band.
+
+For the swing feel of the first movement of 'On the Town three dance
+episodes' by Gershwin, Jim Gwin referred to the recording of Apple Honey
+by Woody Herman and his Orchestra.
+
+<https://www.youtube.com/watch?v=pjI2_exu9AM>
+
+<a id="symphonic-jazz">
+
+## Symphonic Jazz
+
+In 1922 Gershwin wrote Blue Monday, orchestrated by Will Vodery. [^26]
+
+Blue Monday (Opera à la Afro-American) was the original name of a
+one-act \"jazz [opera](https://en.wikipedia.org/wiki/Opera)\" renamed
+135th Street during a later production. Though a short piece, with a
+running time of between twenty and thirty minutes, Blue Monday is often
+considered the blueprint to many of Gershwin\'s later works, and is
+often considered to be the \"first piece of
+[symphonic](https://en.wikipedia.org/wiki/Orchestra)
+[jazz](https://en.wikipedia.org/wiki/Jazz).\"[^27] In that it was the
+first significant attempt to fuse forms of [classical
+music](https://en.wikipedia.org/wiki/European_classical_music) such as
+opera with American [popular
+music](https://en.wikipedia.org/wiki/Popular_music), with the opera
+largely influenced by [Jazz](https://en.wikipedia.org/wiki/Jazz) and the
+[African-American
+culture](https://en.wikipedia.org/wiki/African-American_culture) of
+[Harlem](https://en.wikipedia.org/wiki/Harlem).
+
+*Blue Monday* was one of Gershwin\'s premature works and lacks the
+musical and dramatic sophistication of his later musicals and *Porgy and
+Bess*, but [jazz](https://en.wikipedia.org/wiki/Jazz) conductor [Paul
+Whiteman](https://en.wikipedia.org/wiki/Paul_Whiteman), who conducted
+the original performance of the piece in 1922, was so impressed by it
+that he asked Gershwin to compose a symphonic jazz piece for Whiteman to
+conduct at a concert Whiteman was planning. The resulting piece,
+\"[Rhapsody in Blue](https://en.wikipedia.org/wiki/Rhapsody_in_Blue),\"
+became Gershwin\'s most famous composition.[^28]
+
+<a id="bernstein-and-jazz">
+
+## Bernstein and jazz
+
+
+As Bernstein himself explains in 'The world of Jazz by Bernstein'
+broadcasted October 16, 1955 on ABC, he is influenced by jazz music and
+starts writing a concert piece for jazz band called Prelude, Fugue ad
+Riffs.[^29] This piece requires for a 'real' big band style drumming.
+
+**Prelude, Fugue and Riffs (1949) was** completed in 1949 for [Woody
+Herman](https://en.wikipedia.org/wiki/Woody_Herman)\'s [big
+band](https://en.wikipedia.org/wiki/Big_band) as part of a series of
+commissioned works -- that already included
+[Stravinsky](https://en.wikipedia.org/wiki/Igor_Stravinsky)\'s [*Ebony
+Concerto*](https://en.wikipedia.org/wiki/Ebony_Concerto_(Stravinsky)).
+
+This video of the piece features Sol Gubin on drums. A drummer who
+worked as a hardcore jazz player working with Bill Evans and Wes
+Montgomery. And in the Studio scene.
+
+The original sound track recording of West Side Story of 1961 features
+Shelly Manne on drums.[^30] He was a top studio musician performed
+hundreds of movie soundtracks and commercials. Shelly Manne developed
+his style playing in New York clubs in the late 30's and 40's and became
+well known in the late 40's and 50's for his performances with the big
+bands of Woody Herman and Stan Kenton. He listened to Jo Jones, Dave
+Tough, Buddy Rich, Sid Catlett and Gene Krupa.[^31]
+
+<a id="other-composers">
+
+## Other composers
+
+In this time period there are more classical composers influenced by
+jazz. This is a short list of pieces.
+
+Milhaud - La Création du monde
+[Op.](https://en.wikipedia.org/wiki/Opus_number) 81a(1922-23), premiere
+25 October 1923 at [Théâtre des
+Champs-Élysées](https://en.wikipedia.org/wiki/Th%C3%A9%C3%A2tre_des_Champs-%C3%89lys%C3%A9es)
+in Paris.
+
+Antheil - Jazz symphony (1925) premiere 1927 Carnegie Hall 
+
+Seiber - Jazzolets (1928),For 2 saxophones, trumpet, trombone, piano,
+bass, and drums 1929 and 1932
+
+nr 1:
+[[https://www.youtube.com/watch?v=QpTeAW1sIiw]{.underline}](https://www.youtube.com/watch?v=QpTeAW1sIiw)
+
+nr 2:
+[[https://www.youtube.com/watch?v=JPZZ2vFlIb4]{.underline}](https://www.youtube.com/watch?v=JPZZ2vFlIb4)
+
+And composers write pieces that have a collaboration of jazz band and
+Symphony orchestra's:
+
+Seiber - Improvisations for Jazz Band and Symphony Orchestra (1959) 
+
+By Mátyás Seiber and John Dankworth, performed by the Johnny Dankworth
+Band and London Philharmonic Orchestra conducted by Hugo Rignold.
+
+[[https://www.youtube.com/watch?v=MwUXqkWbm0w]{.underline}](https://www.youtube.com/watch?v=MwUXqkWbm0w)
+
+Rolf Lieberman - Concerto for Jazz Band and Orchestra (1954)
+
+written for the 1954 Donaueschingen Festival
+
+<a id="no-business-as-usual">
+
+# 4. No business as usual
+
+In my orchestra, where I normally play timpani and percussion, I have
+been playing drum set parts in the orchestra on a few occasions. While
+playing drum set I noticed this felt completely different to me than
+playing 'normal' percussion or timpani parts. A lot of those times being
+insecure about the sounding artistic level and searching how to approach
+the role and function of the drummer and the interpretation of the
+parts. Working with a symphonic orchestra and a conductor is 'business
+as usual' for me but apparently not in relation to the drum parts.
+
+There was a constant push and pull going on with the orchestra that did
+not feel comfortable and did not match my expectations of the role of
+the drummer.
+
+I thought that the drummer should be given the authority to be the main
+player in charge of timekeeping and the orchestra and conductor should
+be listening and therefore there would be no push and pull going on.
+With [groove related](#reading-guide) music time should be a straight
+line and tempi should not vary. When I play important and leading parts
+on percussion or timpani in symphonic repertoire this push and pull is
+also going on. But in these cases do not feel as uncomfortable and, in
+my opinion, do not get in the way of the flow or musical function.
+
+The other difficult thing was to do justice to the pieces and get the
+overall groove, feel and time up to the right artistic level. For me it
+did not matter if it was groove related or more [symphonic based
+music](#reading-guide). On a number of occasions I had the chance to
+play together, and watch 'real' drummers work with my orchestra as well.
+The sounding result was not always the same. Some high level drum
+players had much difficulty adapting to seemingly a new experience for
+them as well. Getting into what felt as a 'battle' with the orchestra
+and the conductor. Other drummers had little to none difficulty and were
+doing a great job. Playing in demand, with great feel and sound and able
+to 'control' the orchestra. I wanted to know what made them so good and
+what could I, and other drummers and percussionists learn from them. So
+when we get the chance to play these parts we can do a great job as
+well.
+
+As you can read in the Preface story, many people think that being a
+drummer or a classical percussionist is the same job. In this research I
+make a clear distinction between a drummer and a classical orchestral
+percussion player. They are two different professions with their own
+separate Bachelor and Master study. A classical orchestral percussionist
+is able to play all the parts and instruments which occur in a symphonic
+orchestra, solo or ensembles. And a drummer is someone who plays drum
+set. This can be in different ensemble settings.
+
+In my research these two worlds meet.
+
+<a id="limitation-of-available-players">
+
+## Limitation of available players
+
+When the orchestra receives new parts for the upcoming concert, the
+principal percussionist is in charge of dividing parts between the
+players. And at first it is his responsibility to make a judgment call
+based upon the parts and listening to the original music whether to ask
+or not to ask for a drummer. When dealing with hybrid parts, common
+practice in my orchestra is to let a classical percussionist with a bit
+of drum experience perform the parts.[^32] That is because having
+experience playing under a baton and having feel for orchestral playing
+and orchestral timing is preferred. The percussionist will also be able
+to perform other programmed pieces that need classical percussion
+playing. Another option is to get two players for the (one?) job. A
+drummer for the drum sections and a classical percussionist for the
+other part. 
+
+There is a limited number of drummers in the Netherlands who are able to
+play these real drum parts. And even less who can do semi and hybrid
+drum parts at a high level. They are in high demand when such programs
+occur.
+
+<a id="story">
+
+## Story
+
+During this research I talked to many other percussionists and drummers.
+Two stories by Jim Gwin, the drummer of the Boston Pops Orchestra (BPO)
+are showing this is not only a Dutch problem.
+
+When Fred Buda, the former drummer of the Boston Pops retired, Jim Gwin
+was already playing with the BPO. Sometimes as a substitute classical
+percussionist and sometimes as the substitute drummer. When faced with
+the challenge to find a new drummer, the orchestra thought to let Jim
+take over the drum seat since he was doing a great job over the last few
+years. Hearing about the job opening there were a lot of very good
+drummers, most of them playing in musicals, sending letters to the
+orchestra that they want to take a shot to play for the job. The
+orchestra held an audition and a few players got do a trial and play
+some programs with the BPO. Although the players were really good
+drummers with a lot of experience it didn't work together with a
+symphonic orchestra. And they gave the position to Jim.
+
+On my question: 'Who do you ask as a substitute when you are not able to
+play.'
+
+He answered: 'I make sure I can play. Sometimes when there is a schedule
+clash with the Boston Esplanade Orchestra\*, where I am also the
+drummer, we ask a guy from New York to come in and play.' Which is
+amazing to me because of all the good drummers coming from Boston. I
+would have thought with the amount of drummers studying at Berklee
+College of Music[^33] and New England Conservatory[^34] there would be
+at least a few drummers able to do this.
+
+<a id="education">
+
+## Education
+
+Not in all of the classical percussion curricula at the Dutch
+conservatories[^35] drum set or world percussion training is standard
+included in the program. Sometimes there is an option of taking it as a
+subsidiary subject into your own study program. Most drummers do have
+snare drum technique lessons included. And occasionally, for those who
+are interested, vibraphone lessons. There is a growing awareness that
+drum set training should be included. I spoke with J. William Hudgings,
+percussion teacher at New England Conservatory, percussionist of the
+Boston Symphony Orchestra and the Boston Pops. He is planning on
+changing the mandatory curriculum so drum lessons for classical
+percussion students at NEC are being expanded from one to two years.
+
+The drummers I interviewed and spoke to and are doing this at a high
+level had different backgrounds. Jim Gwin followed a complete classical
+education with a degree. Arie den Boer partially followed a classical
+conservatory education and then turned to drums. And Marcel Serierse
+only had basic classical snare drum lessons when he started to play
+drums at a young age.
+
+<a id="the-major-triad">
+
+# 5. The major Triad
+
+To make it possible to achieve the best sounding result there has to be
+a co-creation between these three main characters. Everyone has his own
+specific role to play but if the cooperation is not good, the end result
+will not be optimal. 
+
+![knipsel driehoek major
+triade.png](files5e9ee3e9127bd4.83079508/media/image2.png){width="3.5213254593175853in"
+height="1.8127526246719161in"}
+
+!{image2}
+
+In the next section I focus on the specific role of every character and
+their interaction.
+
+<a id="conductor">
+
+## Conductor
+
+
+We see the conductor as the leader of the orchestra. The primary
+responsibilities of the conductor are to unify performers, set the
+tempo, execute clear preparations and beats, listen critically and shape
+the sound of the ensemble, and to control the interpretation and pacing
+of the music.[^36]
+
+Koivunen (2003) gives a good picture of how orchestras and conductors
+relate:[^37]
+
+-   "conductors maybe among the most undemocratic leaders in the world.
+    The job description of a conductor is indeed quite extraordinary:
+    conductors are totalitarian leaders. They do not discuss tempo,
+    phrasings or articulation with the orchestra or with individual
+    players. They decide if the orchestra is going to play louder or
+    quieter, whether the tempo is too slow, or whether a particular
+    instrument is too dominant. Nobody is in a position to question
+    their orders. If a musician speaks with a conductor in rehearsal, it
+    is only to ask further advice. If the orchestra wishes to address
+    the conductor, it is the concert master's duty to do so. Conductors
+    decide everything down to the smallest detail in rehearsals and
+    concerts. They decide which parts need extra rehearsing (Nordström,
+    1997: 110)"
+
+When playing groove related music, the drummer takes over some of the
+primary responsibilities of the conductor. Some of the leadership is
+transferred to the drummer and that calls for an open mind and a
+co-creational spirit. A lot of conductors are not as specialized in the
+finesses of the groove, timing and styles of the pieces as the drummer.
+But [Hans Leenders](#appendix-h.-interview-hans-leenders), a conductor
+who has a background in classical percussion said he \'knows\' if a
+drummer sounds like a real drummer or not.
+
+<a id="trust">
+
+### Trust
+
+One of the main things that came out of the interviews was the word:
+'Trust'. The conductor has to trust that the drummer is able to pull it
+off. A good drummer will make his life much easier because he takes over
+the responsibility of the timekeeping part. Not having to be the
+timekeeper himself the conductor can focus on all the other things
+mentioned above. Conductors have to deal with difference in the moment
+of sound production between a woodwind player and a percussion
+instrument. Wind players can sound late and therefore sound not together
+with the drums even though they all think they are playing on time. By
+taking a position and guide the orchestra towards the drummer can help
+to get the two together.
+
+The interviewed conductors adjust their gestures to help to get the
+timing together especially with groove related music. Gestures give room
+for interpretation and are not as clear as a count-in. Counting-in can
+work very well if the piece starts directly with the groove. And is
+preferred by musicians used to groove related music. Counting in gives
+greater accuracy for the first note and a better indication for the
+tempo.[^38] With most of the Gershwin and Bernstein pieces it is not
+possible to do a count-in. Entrances derive directly from a previous
+part and are also not always related in tempo. There can be a rubato or
+rallentando just before the next drum entrance.
+
+<a id="orchestra">
+
+## Orchestra
+
+Depending on the works that are played the group of musicians can vary a
+lot. Bernstein and Gershwin pieces ask for a full orchestra and the
+number of musicians can be up to 80. This requires a big stage and most
+of the times also a big concert hall. Which has its effect on audibility
+between the different groups. But an orchestra does not only contain of
+musicians and a conductor. There are also management and production
+members. There is an artistic team who are in charge of programming and
+contracting soloists and conductors. For some programs artistic teams
+invite arrangers to make an arrangement especially for the occasion. And
+sometimes for a limited amount of players. This can be a smaller group
+because of musical choice, but sometimes also for cost reduction or
+limited available space on the concert location. When my orchestra, The
+Residentie Orchestra, plays in Paard the Hague, the stage is small and
+we play with a limited strings sections and single woodwind and brass
+section players. Some of these programs are groove related and require a
+drummer. Sometimes that will be the drummer from the band we happen to
+play with and on other occasions the orchestra provides a drummer.
+
+If the orchestra provides a drummer they make a decision who to ask to
+play the drums set part. And decide if there is need for a complete
+professional band consisting of drums, guitar, bass and piano. For
+groove related music it is preferable to get a good rhythm section so
+the original song can be matched. A limiting factor in this decision
+making is that the biggest part of the organization does not have the
+right frame of reference to determine if a complete band is needed. They
+hopefully ask for help and info or leave the decision with the
+percussion players or the drummer. When playing with a symphonic
+orchestra a drummer faces some different challenges than playing with a
+band. He needs to have some classical symphonic orchestral
+musician/percussionist skills.
+
+A classical percussionist is able to follow a conductor and move along
+with 'orchestral timing'. You work in an environment where it can be
+more difficult to hear all the musicians clearly and without delay. Much
+of this is due to the [acoustic](#acoustics)s of the concert hall and/or
+physical distance between all the players. When playing the classical
+repertoire symphony orchestras normally work without amplification.
+Being aware of what is happening around you and knowing how to
+anticipate is key? It's a game of knowing where the timing is, how to
+adapt, take initiative and make sure the end result sounds well. This
+requires great listening skills.
+
+Koivunen (2002): [^39]
+
+-   "My data from symphony orchestras suggest that musicians are experts
+    in listening. They have a unique talent of listening and responding,
+    following, it is an essential part of their profession. They know
+    how to interpret the conductor's gestures and mimics, and listen to
+    the sound and adjust their own playing to that. Musicianship
+    requires highly developed skills in concentration, listening,
+    responding and adaptation. In addition to the craft of playing
+    itself, one has to develop a nearly intuition-like skill in
+    following the conductor, notes, listening and watching the concert
+    master, principal players and fellow players, all this
+    simultaneously. The players admit that this process includes some
+    almost mystical elements that they are unable to explicate. That is
+    clearly an example of tacit knowledge (Nonaka and Takeuchi 1995).
+    How can the musicians make sense out of the huge amount of impulses
+    that exist when a symphony orchestra is playing? To whom should one
+    listen to and how? There seems to be two alternative ways of sense
+    making in the orchestra. The other alternative is based on watching
+    the conductor carefully and following his signs and gestures. The
+    other alternative consists of listening to one's own playing and to
+    fellow players sound. Naturally, these approaches can overlap and do
+    overlap in an ideal situation"
+
+<a id="tacit-knowledge">
+
+### Tacit knowledge
+
+For drummers who did not work with an orchestra before it can help if
+they understand some of the unwritten rules or called tacit knowledge in
+symphonic orchestras. As a young classical musicians you are hopefully
+guided or mentored by your teacher when entering the classical
+orchestral world. You learn what not to do, like practicing loud cymbal
+crashes before a rehearsal or concert. Like this article about becoming
+a professional musician describes.
+
+-   "Tacit learning from Sinfonia participation with others versus focus
+    on explicit learning from a teacher at Music School Tacit learning
+    describes a form of knowing where 'we know more than we can tell'
+    (Polanyi 1983). It contributes to the notion that the enactment of
+    practice is often more an art than science (Duguid 2005; von Krogh,
+    Ichijo and Nonaka 2000), that exposes practitioners to the unwritten
+    protocols of practice and ways of behaving appropriately within an
+    organisational or cultural context. As Cody reveals: I feel there's
+    \... two main parts of being a professional orchestral musician. The
+    first is obviously musical and the second would be etiquette.
+    \[With\] musical, you learn ... what kinds of articulation are
+    needed, what kind of approach to rhythm is needed in an orchestra,
+    how to interpret Principals, Principal Players, conductors and
+    concertmasters. How to interpret the difference between how one
+    section of the orchestra interprets something ... \[especially as\]
+    a rank-and-file player, you have to be able to follow what's been
+    understood. \[Also, the\] stylistic approach to music changes within
+    the city, within the country and you have to be aware of all these
+    different stylistic approaches. \[Then\] the etiquette that comes
+    with playing in an orchestra is just as important because obviously
+    there's a hierarchy of older players who need to be respected and
+    expect you to respect their ways of doing things. And they want you
+    to learn; at the same time, they want you to learn the way they've
+    done it. And yes definitely not tread on anyone's toes, which means
+    not playing before anyone, not playing while people are speaking, to
+    take it seriously but at the same time, not to be stiff so-to-speak.
+    And that's not hard to learn, that's more ... just filtered into
+    you, you know; the way you behave. And the younger you are, it seems
+    that you haven't quite learned that yet, it's a maturity \[thing\]
+    ... I think when I was younger, I probably annoyed a lot of people
+    ... you're not meant to play concertos and things while you're
+    warming up ... you're not meant to look like you're showing off
+    \[so\] it's all about humility really. Further, music-mediated
+    communication appears to require embodied competence (Beckett 2008);
+    it requires actively using all the human senses rather than the
+    frequent pedagogic talk that is more common at Music School."( Paul
+    Hager and Mary C. Johnssona 2009^)^[^40]
+
+<a id="drummer">
+
+## Drummer
+
+
+In the [Appendix C](#appendix-c-musical-skills) Musical, [Appendix
+D](#appendix-d-personal-skills) Personal and [Appendix
+E](#appendix-e-technical-skills) Technical skill, you can find an
+extraction of the skills other musicians thought necessary for drummers.
+It is collected and summarized out of a book which contains an interview
+section with many musicians and producers giving their view on what the
+role of the drummer should be and how they approach situations when
+working with drummers in the studio or live shows.[^41] I use this
+extraction as a guideline in the next section and compare and add what I
+got out of my observations and interviews.
+
+<a id="personal-skills---it-is-not-about-you">
+
+### Personal skills - It is not about you
+
+The drummer has a big responsibility which is not matched by any other
+instrument in the orchestra. You take over some of the conductor\'s
+role, like setting up tempo's and being the time keeper. Therefore, the
+drummer has to be confident and self aware to play with authority. You
+have to be in demand with your playing but also flexible and able to
+adapt to a conductor and your surroundings. In the right circumstances
+the drummer is given the responsibility to take his role by the
+conductor.
+
+Interesting to see was that all interviewed drummers said it is not
+about them. They surrender their ego and try to get into the music no
+matter what. But just for the higher goal of music. Make everybody,
+orchestra and/or soloist play better and make them happy. Problems
+related to music are addressed.
+
+When you are a professional drummer it is sometimes required to have
+your own trademark in playing. When working with an orchestra there is
+no need for this. Especially with the more symphonic based music of
+Bernstein and Gershwin.
+
+<a id="listening">
+
+#### Listening
+
+One of the most important skill you need is the skill of listening. The
+most important thing is how you sound with the orchestra. Open up your
+ears will help you adapt to your surroundings. Be concerned about what
+you play yourself but technically you should be able to play on
+autopilot so you can focus on what is going on around you. This will
+make you blend with the orchestra.
+
+An inspiring example of good listening practices is given by Marie Jo
+Hatch who has studied jazz music and jazz musicians.[^42]
+
+-   Other scholars have also find jazz orchestras fruitful for studying
+    improvisation or creative organization forms (Bougon et al. 1977;
+    Barrett 2000). According to Hatch, in an ideal situation each
+    musician listens to all other players all the time they are
+    performing a tune. However, many musicians admit that they reach
+    this ideal very seldom, only at the peak moments of jazz
+    performance. At other times, the musicians concentrate on listening
+    to one or two fellow players intensely. Thus, there is always
+    somebody listening to the player who is contributing. Most
+    importantly, the best listening and responding involves noticing how
+    others are listening and responding to you. The better the listening
+    and responding, the greater the music sounds. (Koivunen 2002)
+
+<a id="professionalism">
+
+#### Professionalism
+
+There are so many really good drummers. It seems obvious but for being
+asked again for another gig you have to leave a positive feeling with
+the people involved. From your direct colleagues to management, sound
+engineers and production. Have your instruments in order, be on time, be
+well dressed and communicate in a pleasant way.
+
+Being prepared is a key element.
+
+<a id="communication">
+
+#### Communication
+
+Because the drummer sometimes take over the role of the conductor the
+channels of communication should be wide open. If things are not working
+out musically you have to address the issue. The drummer is probably the
+most experienced in his area. Especially when it comes to getting the
+right tempo and feel of the piece. Being to dominant in your opinions
+because of this expertise can create a clash. In the end it is the
+conductor who is responsible for the sounding result. Communication is a
+two way street so you have to welcome input also. I noticed that the
+drummers had frequent eye contact with the conductors especially with
+every new transition in the song.
+
+<a id="great-memory-or-good-reader">
+
+#### Great memory or good reader
+
+There is no need for a great memory when performing with orchestras. It
+is better to be a good reader because all the music, repeats and other
+information is written in the parts. Flexibility during the performance
+is not a forte of symphonic orchestras. They are not used to work with
+hand signals or adjust to, for instance, a singer who comes in at a
+wrong moment or want to repeat an ending. Orchestras rely mainly on the
+repeats and structure of the given parts.
+
+<a id="inventive/creative">
+
+#### Inventive/Creative
+
+The creative part is particularly during the preparation phase. Parts or
+charts are only giving the basic information about what to play.
+Especially with new arrangements it can be a challenge to recreate
+things you hear on the original songs. There are sometimes tambourine,
+triangle or other overdubs. Things you cannot be done by one player. The
+drummer has to find a way to come up with something that feels similar
+to the original.
+
+The Gershwin and Bernstein songs have parts which are more written out
+but also contain a lot of interpretable sections.
+
+<a id="energy">
+
+#### Energy
+
+Not addressed specifically by the interviewees but can be added to
+communication and support the song, provide the right emotional peaks.
+
+<a id="patience">
+
+#### Patience
+
+Not addressed specifically by the interviewees.
+
+<a id="extra:-preparation-">
+
+#### Extra: Preparation 
+
+This can be part of professionalism. But the importance of being
+prepared is so big I gave it an extra place in this list. The drummer is
+most preferably, and most probably is, the expert on how to interpret
+the drum part. With a lot of groove related, in combination with
+orchestras, programs you deal with new arrangements. And the provided
+charts are mostly just a guide. This means that parts have to be prepare
+really well before the first rehearsal starts. Listening to original
+recordings to know the right tempo of the song, the right feel and style
+so the drummer can match the original sound of the record. This
+preparation will make the drummer able to play with authority and
+conviction. When songs or arrangements are new to the interviewed
+drummers, they make a Spotify list of the original songs and listen to
+them frequently so they get the right tempos and feel for the songs.
+This preparation will able the drummer to still be flexible and also to
+lead and keep the orchestra together and tight.
+
+<a id="musical-skills---the-three-t's">
+
+### Musical skills - The Three T's
+
+*'Just because you are not a drummer, doesn\'t mean that you don't have
+to keep time'.*
+
+From Thelonious Monk's notebook: [^43]
+
+<a id="time">
+
+#### Time
+
+This seems to be the most important skill for a drummer.
+
+The book: The Big Band Drummer by Ron Spagnard has the following section
+to describe the challenge when keeping time: [^44]
+
+-   'Maintaining accurate, solid time is the first and foremost
+    responsibility of a big band drummer. Nothing destroys the overall
+    musicality of an arrangement more than a drummer who rushes or drags
+    the tempo. Big band drummers face an ever greater challenge than
+    small-group drummers, due primarily to the larger number of
+    musicians in a big band. In a big band situation, certain entire
+    sections (saxes, trumpets, trombones) may have a tendency to rush or
+    drag the time. Keeping it all under control when dealing with
+    fourteen to eighteen musicians at the same time can be a formidable
+    task for any drummer.'
+
+With bigger groups like a symphonic orchestra this is even amplified.
+
+With groove related music within the orchestral setting the timekeeping
+responsibility should be given to the drummer by the conductor"
+.According to conductor Hans Leenders there are passages in *Gershwin
+and Bernstein pieces where* time is more flexible and the drummer and
+conductor should find each other. For instance the four pitched drum
+solos at the beginning of the Symphonic Dances from West Side Story.
+
+<a id="taste">
+
+#### Taste
+
+When performing with an orchestra the drummer encounters a lot of
+different music. The variety of styles are limitless and therefore
+require him to be able to perform all styles to a certain acceptable
+artistic level. There are not many drummers who can do that.
+
+The drummer has to choose his grooves and fills wisely. The advice given
+by [Gerald
+Scholl](#appendix-f.-summary-of-the-master-class-by-jerry-gerald-scholl-on-drums-in-orchestra.)
+is to use the K.I.S.S. system: Keep It Simple Stupid. Acoustically it
+can be a challenge to hear everything clearly and classical musicians
+are not that used to work with drummers. Being to creative with the
+fills can result in wrong entrances by the orchestra. A well placed fill
+or upbeat can help the orchestra to start at the right moment. You can
+hear an example of that in the [solo jazz
+break](#appendix-b.-analysis-and-comparison-of-the-drum-parts-as-performed-and-interpreted-by-the-drummer-on-recordings-from-bernstein.)
+of the Fugue in Symphonic Dances from West Side Story.[^45]
+
+The groove has to be easy to follow and will help the orchestra to lock
+in with you. Providing a good ride for everybody.
+
+The drummer has to be able to blend his sound in the orchestra. This
+requires him to play soft but preferably with good sound. This can be a
+challenge when the music calls for a 'Metal' sound and style. But you
+still have to match the orchestra volume and play with intention. As
+[Arie den Boer](#appendix-j.-interview-arie-den-boer) stated: "Playing
+soft is an art in itself"
+
+Plexiglas screens can be used to protect the ears of other musicians. It
+happens that orchestral musicians protect their ears by using earplugs
+or walk away if you play too loud.
+
+This does not help them to be aware and responsive to the drummers
+playing.
+
+<a id="tone">
+
+#### Tone
+
+Great sound is closely related to taste. The drummer needs to choose his
+set up wisely. The variety of musical styles and the venue you play in
+can make it hard to choose a setup. In the same program you can
+encounter a metal based song and a jazz song. This would require a
+different tuning of the drums. There is no time to change and retune
+between songs so the drummer needs to find something that can do all.
+Great sound is achieved by good technique. 
+
+<a id="technical-skills">
+
+### Technical Skills
+
+The symphonic drummer has to be a good reader and able to interpret drum
+charts. But should also be able to read classically notated rhythms and
+irregular time signatures. The drummer has to be comfortable in many
+styles and technically be able to play them
+
+to a certain artistic level. For the Gershwin and Bernstein parts the
+styles you have to be able to play are limited. It consists mainly of
+jazz related patterns and a Mambo (Latin feel) in Bernstein.[^46]
+
+<a id="extra">
+
+#### Extra
+
+An important skill is the ability to play with brushes. There are many
+passages in the Gershwin and Bernstein pieces which require brush
+playing. And the drummer has to be able to perform a good sounding
+classical snare drum roll.
+
+<a id="the-triad-in-cooperation-">
+
+## The triad in cooperation 
+
+
+<a id="the-battle,-or-not">
+
+#### The battle, or not
+
+Especially the conductor and the drummer have to be co-creational and
+open minded. The drums are acoustically the most powerful and it has no
+use for a conductor to beat against the beat of the drums. Like Mark
+Wigglesworth said in his book: "If people think a conductor is in a
+position of power, that is nothing compared to the opportunities
+afforded a percussion section. They have louder sticks".[^47] Normally
+an orchestra is dependent of conductors but now they are also dependant
+on a drummer who knows what he is doing. Because of this interdependence
+they have to come to an agreement to make it work.
+
+<a id="communication">
+
+#### Communication
+
+Communication is a key element. Getting to know each other even before
+the rehearsal will open up the lines of communication. This makes it
+easier to address musical issues during the rehearsal. In all my
+observations during rehearsals I saw the conductor and drummer also
+address musical issues after the rehearsal had finished and/or during
+the breaks. Not everything was addressed immediately and in front of the
+whole ensemble.
+
+There has to be a mutual trust in each other to make it work. The
+drummer has to trust that the conductor listens to him and is able to
+follow and adjust the orchestra towards him. And the conductor has to
+trust that the drummer can follow him during the other sections which
+require more flexibility in timing. There can be a lot of push and pull
+going on if they don't agree from the beginning of the section where the
+drum starts to play. This can result in tempo variations during the bars
+the drums are playing. You can hear this in a recording from the Royal
+Philharmonic Orchestra, Conducted by Carl Davis[^48]
+
+The drummer also needs to be co-creational with the orchestra. A
+classical orchestra is not used to play swing music. [Jim
+Gwin](#appendix-l.-interview-during-lessons-jim-gwin) said: "An
+orchestra is never gone swing like a band. With a 'good' band it's easy.
+The time is so good that you don't have to worry about holding it
+together. You can concentrate on feel. Orchestral timing is all over the
+place. It never settles." But fortunately, according to [Marcel
+Serierse](#appendix-i.-interview-marcel-serierse), orchestras are more
+and more used to play groove related music and lock better and better
+than before.
+
+Playing with a volume that matches and blends in the orchestra will help
+to get the orchestra to listen to the drummer. If it is too loud, the
+people close to the setup will use earplugs and screens and that do not
+help them to focus on their surroundings. From my experience, it feels
+that the musicians will then get even more information from their eyes
+and by watching the conductor and less from their ears. This will not
+help to lock in to the drum groove.
+
+<a id="acoustics">
+
+#### Acoustics
+
+Where the drummer is placed in the orchestra can make a big difference.
+In my orchestra we place or replace the drum set to match the acoustic
+circumstances. In the following examples there are photos of different
+orchestras and halls and placement of setups.
+
+With my orchestra we played a program which included the West Side Story
+Overture, Porgy and Bess suite and some arrangements of Gershwin pieces
+in the Zuiderstrand Theatre in the Hague. The arrangements contained
+real drum parts and accompanied a singer and a harmonica player. We
+ended up using two drum sets. One behind the orchestra for the best
+connection with the rest of the percussion group so we could play the
+West Side Story Overture well. And on drum set in the orchestra next to
+the acoustic bass player and guitar player. And a bit closer to the
+conductor and soloists.
+
+![RO ZST audience view 2
+setups.jpg](files5e9ee3e9127bd4.83079508/media/image3.jpeg){width="5.220485564304462in"
+height="2.537736220472441in"}
+
+![RO ZST audience view 2
+setups.jpg]{image3}
+
+Conductor's view percussion and drum set for the Gershwin and Bernstein
+pieces.
+
+![RO ZST setup G and B conductor
+view.jpg](files5e9ee3e9127bd4.83079508/media/image4.jpeg){width="5.395149825021872in"
+height="2.622642169728784in"}
+
+![RO ZST setup G and B conductor]{image4}
+
+Drummers view and drum set up for Bernstein and Gershwin pieces
+
+![RO ZST setup G and B orchestra
+view.jpg](files5e9ee3e9127bd4.83079508/media/image5.jpeg){width="5.530996281714786in"
+height="2.688678915135608in"}
+
+!{image5}
+
+Conductor's view drum set, guitar and bass for the arrangements
+
+![RO ZST setup jazz conductor
+view.jpg](files5e9ee3e9127bd4.83079508/media/image6.jpeg){width="5.608625328083989in"
+height="2.726415135608049in"}
+
+!{image6}
+
+Drummers view and setup for arrangements
+
+![RO ZST setup jazz drummer
+view.jpg](files5e9ee3e9127bd4.83079508/media/image7.jpeg){width="5.2527515310586175in"
+height="2.5534208223972in"}
+
+!{image7}
+
+**Residentie Orchestra**. For a program in Paard the Hague we played
+with a French chansonnier and we used this placement. Next to the piano
+player who had a big role in the program and close to the bases. A
+monitoring system was set up so we could all hear each other perfectly.
+
+View from the hall Paard the Hague
+
+![RO P.Elan Audience
+view.jpeg](files5e9ee3e9127bd4.83079508/media/image8.jpeg){width="5.33765748031496in"
+height="3.0024332895888013in"}
+
+!{image8}
+
+Conductor's view Residentie Orchestra in Paard the Hague.
+
+![RO P.Elan conductor
+view.jpeg](files5e9ee3e9127bd4.83079508/media/image9.jpeg){width="5.148847331583552in"
+height="2.896227034120735in"}
+
+!{image9}
+
+**Boston Pops Orchestra** Setup for the Summer of '69 program with
+soloist Arlo Guthrie
+
+The Band, drums, guitar, bass, piano, is at the back of the orchestra.
+Everybody has monitoring.
+
+Audience view
+
+![BPO Arlo Guthrie audience view
+rehearsal.jpg](files5e9ee3e9127bd4.83079508/media/image10.jpeg){width="5.2527515310586175in"
+height="2.5534208223972in"}
+
+!{image10}
+
+**National Symphony Orchestra Pops**. Concert of Diana Ross in Kennedy
+Center Washington. (Thanks to Tony Overwater for the photo).
+
+The band is placed in front of the orchestra. Remarkable to see that the
+music stand of the drummer faces away from the conductor. This would
+make it much harder for the conductor to get in touch with the drummer
+and make small adjustments during the performance.
+
+![Dianna Ross Kennedy Center
+Washington.jpeg](files5e9ee3e9127bd4.83079508/media/image11.jpeg){width="5.408805774278215in"
+height="3.5566043307086614in"}
+
+<a id="interpretation-and-preparation-of-parts">
+
+# 6. Interpretation and preparation of parts
+
+<a id="parts-are-unreliable">
+
+## Parts are unreliable
+
+Most of the drum parts are only giving a basic outline on what to play.
+There is no clearly defined system for composers, arrangers and copyists
+how to write for drums. You are most of the time confronted with some
+kind of basic sketch which include time signature, tempo markings, and
+style of the arrangements (rock, swing, latin). It is up to the drummer
+to determine what to play and what is appropriate for the music. This
+means that the drummer has to be musically and technically prepared to
+perform the parts. He must know all the ins and outs of the specific
+styles to be able to sound authentic.
+
+-   Western musical notation is woefully unequipped to illustrate any
+    feel or pulse aside from straight or triplet-shuffle rhythm. Even
+    the latter requires an artificial accommodation and is impractical
+    to notate throughout a piece. A "between the cracks" rhythm, on the
+    other hand, cannot be adequately notated whatsoever. Instead, it can
+    only be learned through listening and actual practice*.*[^49]
+
+Even when parts are partly rhythmically notated there is missing
+information on all kinds of small groove related stuff like ghost notes
+or the amount of hi-hat opening. An additional important skill is to be
+able to adjust beats or grooves when a conductor or soloist asks to play
+something different or in a different way.
+
+Here is a very clear example of how unreliable parts can be. These are
+two examples of the same bars of 'On the Town' Three Dance Episodes by
+Bernstein, just from different Publishers.
+
+Example 1: Starts immediately with the written shuffle pattern.
+
+!{image12}
+
+Example 2. Same spot as above but from a different Publisher.
+
+!{image13}
+
+After 23 bars the part in the second example also turns into the written
+shuffle pattern.
+
+As you can see in these examples there are also extra remarks written
+down by the players themselves. This is a common sight when we get parts
+which have been used by another percussionist. Sometimes the conductor
+has specific wishes but most of the time it is up to the drummer to
+choose a musical fitting pattern and a functional sound. A sound that
+fits the acoustic and is audible for the whole orchestra. The parts do
+not give enough information on where to change from brushes to sticks or
+from hi-hat to cymbal. Sometimes added remarks even contradict or have
+been crossed out by the next player. This can be because of personal
+musical choice or audibility in the hall.
+
+In some places there is room to make a fill or setup the next entrance
+so the orchestra can come in at the right spot. The 'golden rule' that I
+have heard from different players is always the same. Sometimes referred
+to as the K.I.S.S. system: 'Keep It Simple Stupid'.
+
+Don't get in the way of the orchestra and help everybody to play well.
+It has no use to show you technical ability at this point and play to
+many notes or experiment with beat displacement. This will only confuse
+the rest of the orchestra and quite possibly the next entrance will be
+messy. A common 'possible messy orchestral entrance point' worth
+mentioning are the two solo Jazz Break spots in the West Side story -
+Symphonic Dances from Bernstein, between bar numbers 666 and 676.
+
+Several players are also not purists when it comes to the parts. You
+hear many interpretations of the parts in several recordings. A
+selection of recordings and their interpretation can be found in
+[Appendix
+B](#appendix-b.-analysis-and-comparison-of-the-drum-parts-as-performed-and-interpreted-by-the-drummer-on-recordings-from-bernstein.).
+[Gerald
+Scholl](#appendix-f.-summary-of-the-master-class-by-jerry-gerald-scholl-on-drums-in-orchestra.)
+adds bass drum notes under cymbal crashes or adds extra cymbal crashes
+to give length to patterns or give it more big band feel are common
+practice. Everything possible that is deemed necessary to color the
+orchestra.
+
+<a id="preparation:-general">
+
+## Preparation: General
+
+To be able to play with confidence and authority so you can lead an
+orchestra it is vital that you have prepared your parts as well as
+possible. One drummer said you have to know the parts better than the
+conductor. You have to have done your research and listened to
+recordings. For *Gershwin and Bernstein* you can listen to original cast
+recordings of the Broadway shows for reference.
+
+When playing with soloists or singers you have to have listened to their
+recordings of the pieces. So you know what they are used to expected of
+the drum parts (Groove, ghost notes, fills). Some soloists are very
+particular and want to hear the same fills they are used to.
+
+The drummers I interviewed made lists on Spotify of the songs so they
+can listen to the songs several times. Try to identify the basics of the
+song and put in numbers, phrases, style and start of the lyrics. Use a
+metronome during rehearsals and concerts when it is necessary to get the
+exact right tempo.
+
+It is not uncommon to get parts with limited information like this
+example below. You get lost very easy during rehearsal if you don't know
+the song form in relation to this part.
+
+Example of a clean drum part the drummer gets before rehearsals
+
+!{image14}
+
+Example with remarks of the same song after the rehearsal and concert.
+
+!{image15}
+
+<a id="summary-of-the-necessary-technical-and-musical-demands">
+
+## Summary of the necessary technical and musical demands
+
+The technical and musical demands for the Gershwin/Bernstein parts are
+quite specific.
+
+For specific patterns and styles: [Appendix A. Analysis drum
+parts](#appendix-a.-analysis-of-parts-gershwin-and-bernstein)
+
+<a id="gershwin">
+
+### Gershwin
+
+Swing Brush and Ride patterns at different tempos
+
+Use of small auxiliary percussion. Splash cymbal, woodblock
+
+New Orleans style, Second line style marching patterns.
+
+¾ bar swing
+
+Snare drum rolls, syncopated accents with added bass drum
+
+Tom-tom licks.
+
+<a id="bernstein">
+
+### Bernstein
+
+Irregular Time signatures
+
+Syncopated snare and bass drum parts.
+
+Snare drum rolls and Flam's
+
+Shuffle patterns. With brushes and sticks.
+
+Tom-tom fills
+
+Basic timekeeping in different tempos
+
+Rumba 3/2/2 pattern
+
+Marching snare and bass drum pattern
+
+Semi shuffle
+
+Four pitched tom-tom solo part
+
+Mambo cowbell  pattern with offbeat bass drum and hi-hat
+
+Linear time patterns over the setup
+
+'African style' 6/8 pattern on snare, toms and tenor drum
+
+<a id="variation-in-interpretation">
+
+## Variation in interpretation
+
+When you listen to different recordings made by different orchestras you
+can tell that there is a great variety in the way the drummers interpret
+and execute the same part. See [Appendix
+B](#appendix-b.-analysis-and-comparison-of-the-drum-parts-as-performed-and-interpreted-by-the-drummer-on-recordings-from-bernstein.).
+Parts are very limited and basic in their information and drummers seem
+to use these parts as a guideline and are not purists and feel obligated
+to only follow the written part. Brush pattern are played by some
+players exactly as written. Others add some whoosh and also follow the
+music by accenting en embellish the ongoing beat. In some occasions the
+classical notation seems to get in the way of the flow of the music and
+interpretation inside the orchestra sounds not the same.[^50]
+
+<a id="tempo-drops">
+
+### Tempo drops
+
+In some recordings the tempo is not steady and the metronome markings
+can drop and go up in a few bars time.
+
+The major triad is not working perfectly here. This result is a tempo
+drop from 100 till 92. After that the tempo is established again to 99.
+So the initial tempo seemed to be perfectly on top. [^51]
+
+<a id="on-top-or-not">
+
+### On top or not
+
+Some of the drum parts in the recordings sound as the drummer is in the
+lead. He is in front of the beat and timing of the orchestra. On other
+the drum part sounds late and a little behind.
+
+[]{#_Toc38200917 .anchor}**Jim Gwin's interpretation** and tips when
+performing On the Town and West Side Story
+
+When talking about creating your own part based on the score or on the
+general feel of the piece Jim said: "If possible create your own thing.
+But you have to be able to do both ways". 
+
+<a id="'on-the-town',-three-dance-episodes">
+
+### 'On the Town', Three Dance Episodes
+
+I: The Great Lover:
+
+B: Brush played with accents, they (the orchestra) have to hear. addREC
+27.50
+
+Play upbeat, but small, don't confuse the orchestra.
+
+N 5th bar: In the end I play quite even. Not with triplet feel. REC
+33.10
+
+Listen to Apple Honey by Woody Herman and Thundering Herds . Davey
+Tough, favorite of Buddy Rich, Gene Krupa is the drummer.
+
+I'm thinking about him or something like that. For getting the feel in
+your head.
+
+ 
+
+III Times Square: 1944
+
+Beginning: When you first start anything give a big downbeat, so
+everybody knows where to start.
+
+B: plays swing instead of written. REC1.08.30
+
+Plays all accents with bass drum. REC 01.11.00
+
+F: shuffle pattern. Bass drum. triplet feel: 1, (2) and 3, (4) and.
+Snare 2 and, 4 and.
+
+Widen the eight notes, helps to settle everything. No exact 6/8. It's
+like Latin music. Not straight.
+
+it's like a New Orleans thing to me. Make the 2 and 4 louder.
+
+Q:Plays all the orchestral hits, instead of bass drum quarter notes. REC
+01.14.00
+
+<a id="symphonic-dances-from-west-side-story:">
+
+### Symphonic Dances from West Side Story:
+
+Bar 154: Fast swing ride cymbal time. Play through, do not follow the
+part. I played it this way with Andris Nelsons (chief- conductor BSO),
+he liked it and said: "this was the easiest time ever". For me it makes
+more sense and it sounds good.
+
+<a id="mambo:">
+
+#### Mambo:
+
+Mambo offbeat in the bass drum does not make sense. Nobody does that in
+Latin, it does not fit the groove. Most important thing, the clave, is
+missing. I play that. Unless anybody(conductor) specifically asks.
+Nobody did that so far.
+
+Bar 400: I play the first four cowbells bars as written and all the
+snares also. REC STE002 00.25.00. Play a cascara pattern if possible.
+Underneath a 2-3 Clave. This changes depending on the melody when the
+brass enters to a 3-2 clave later. Common in Latin music. Play bass
+drum. and hi-hat on 1 and 3 for steadiness. Latin feel is a special kind
+of groove. 
+
+Bar 466: I play a Latin pattern instead of the 4 pitched drums
+
+Bar 496: play cowbell and bass drum as written.
+
+504: play upbeat like Buddy Rich and than 4 bars of Big Band fill
+playing.
+
+524: play a simple pattern, there is o much going on, but do the bass
+drum on the 2 and 4.
+
+<a id="fugue:">
+
+#### Fugue:
+
+Bar 607: Like written, brush on cymbal, doesn't make sense. I like the
+way Shelly Manne does it on the original soundtrack. Start with bushes
+on snare. I play all the big hits, with bass drum and with
+embellishments, also the bongo and tenor drum hits. And ad the hi-hat
+later, go to sticks on hi-hat. Build it, open your hi-hat more and more.
+Than go to the cymbal. Play simple fills.
+
+Bar 656: Big band playing with cymbals and embellishments in the
+accented orchestral hits
+
+Bar 666: Play simple fills with an accent on the one. (bar 669) That
+will help the orchestra to get in on the right time on the next bar.
+
+(Fills in the original movie soundtrack contain two bars soloing instead
+of 1).
+
+Bar 680: I play time and don't do the tom-tom licks. That doesn't sound
+like a thing a drummer would do.
+
+Set up the cymbal accents on the 4 and.
+
+Bar 695 and 696: I play very loud.
+
+Shelly Manne in movie soundtrack plays decrescendo triplets. When I do
+it the conductor always asks for a crescendo.
+
+<a id="discussion">
+
+# 7. Discussion
+
+
+<a id="like-no-other">
+
+## Like no other
+
+
+*It is a hard and difficult job being the drum set player in a symphonic
+orchestral setting. Even the most called for players have to be on the
+top of their game to be able to pull this off at a high artistic level.
+Of course the most striking difference when it comes to playing drums in
+a band versus an orchestra is the conductor and the amount of players
+involved.*
+
+*Conductors expect them to be a second and sometimes even first
+conductor. They have to take over the conductor's role. This is only
+achieved or granted when the conductor trusts that the drummer is able
+to do so. There is no other instrumentalist in an orchestra which is
+granted so much power and control. Working with a big symphonic
+orchestra and a conductor as an intermediary with interpretive gestures
+means that your primary role, timekeeping, can create more push and pull
+than in other musical settings. Next to this he must be able to play
+all, literally all, kinds of musical styles and adapt on request. This
+requires not only a wide technical and musical ability but also a
+confident and self-aware yet flexible personality. Because of the
+interdependence of conductors, the drummer must be a good communicator
+so problems can be addressed. Normally this is not a common thing to do
+in an orchestral setting.*
+
+*Most conductors are not deep enough into specific drum matters so that
+means that the drummer is the expert when it comes to interpreting the
+parts. The drum parts only provide a basic guideline and leave a lot
+open for interpretation. To be able to perform them with conviction the
+drummer needs to prepare the parts in detail. Due to cost reduction in
+many orchestras there is a short rehearsal process and there is not much
+time for experimentation. They have to know the right tempo, feel and
+structure of the song and lay a foundation the orchestra can build on.
+They must balance on the thin line of providing the right groove and
+feel but not overplay as it can cause the orchestra to lose track and
+get lost. The orchestra needs drummers who can do this. And having a
+trade mark or an 'own sauce' as Hans Leenders calls it, is important for
+a jazz or pop drummer, but not in orchestral situations.*
+
+<a id="how-do-the-experts-cope?">
+
+## How do the experts cope?
+
+
+*During the interviews it was clear that they are very aware of the
+things written above. They are all master drummers and during their
+career they gained experience in working with orchestras and conductors.
+Through a classical percussion education or having a mentor who gave
+insight in this process. During their whole career they played in a lot
+of different musical settings and styles. They studied and researched
+the great drummers before them and know how to sound authentic in every
+style. This made them versatile drummers and also flexible enough to
+understand how classical musicians interpret the gestures of a
+conductor. They also know how hard it is to play with an orchestra. Jim
+Gwin called it: "an orchestra is the hardest thing, it's like a
+different kind of animal. Orchestral timing is all over the place, it
+never settles". They all have developed ways to cope with this and in
+Jim's words: "give the illusion that it sounds good." *
+
+<a id="differences">
+
+## Differences
+
+*These are the most striking differences when it comes to band drummers
+and symphonic drummers. Others skills I found and are in [Appendix
+C](#appendix-c-musical-skills), [D](#appendix-d-personal-skills) and
+[E](#appendix-e-technical-skills), are for a big part general
+musicianship skills and apply to all musicians. And the specific drummer
+skills apply to both band and orchestral settings.*
+
+*When playing drum set in an orchestral setting there is a division to
+be made when it comes to groove related music and symphonic related
+music. With symphonic pieces like Bernstein and Gershwin timing can be
+stretched and call for a more classical approach. There are more places
+where one rhythm deviates from another and the transitions has to go
+through the conductor to get the orchestra in line. The amount of styles
+is also limited with these composers. As to be seen in chapter 6, all
+the patterns are jazz related and one Latin part in the Mambo of the
+West Side Story by Bernstein. In my research I found that there are many
+different choices made by the drummers when playing these parts. The
+instructions by the composer are not always followed and instruments are
+added or patterns are changed*
+
+*I even found differently printed drum patterns of the same spot in the
+music. The parts were from two different publishers.*
+
+<a id="my-assumptions-and-changes">
+
+## My assumptions and changes
+
+
+*The honesty and openness I experienced during the interviews helped me
+to discuss and address all the struggles I experienced when playing drum
+set in the orchestra. It turned out that they shared most of them and
+developed ways of coping with them. The biggest difference between us
+was their mastery of the drum set. *
+
+*In a technical way because of the many more hours they spend behind a
+drum set and being able to perform many styles at a high level. Marcel
+Serierse said: 'technically you have to be able to play on auto pilot.
+If you can do that you can focus on what is going on around you. Your
+ears will open up and you hear so much more. You can blend better. That
+is an essential skill for drummers". I certainly don't have that many
+hours in my system and that is probably the same for other classical
+percussion players. I watched a video of a master class Mel Lewis gave
+in 1985 where he talked about steering with your feet instead of your
+hands. Mel Lewis said: "The bass drum controls the band, the hands are
+dressing. Down here (the bass drum) is necessary, Up here (the hands) is
+where you create'.*[^52] *Jim Gwin called the feet, (bass drum and
+hi-hat) the anchor of the orchestra. I realized that this was the
+opposite of what I was trying to do when trying to steer the orchestra
+in my direction. My strongest limbs are my hands and I can control the
+orchestra with this during a lot of classical pieces. My weakness is the
+control in my feet. This changed my way of studying, the way I approach
+the parts and my actual playing in the orchestra.*
+
+*Musically because of their education, knowledge and in-depth study of
+the '[greats](#reading-guide)' and all the experiences playing in
+different bands and settings. They absolutely know how to interpret the
+parts to make it sound and feel good. When they have to match a
+recording but there are many overdubs on the record, they know how to
+alter the parts but still maintain the essentials. *
+
+
+*I often had trouble interpreting the way the Bernstein and Gershwin
+notated the drum rhythms. And indications of instruments and sticks did
+not work in the orchestra. Working with Jim Gwin on the parts and
+watching the master class by Jerry Scholl showed me an open way of
+interpreting these parts. They only cared about the character of the
+music. Cymbal crashes were added to give color or length to notes, extra
+bass drum notes for extra punch. Indications for the use of brushes or
+sticks where ignored if necessary.*
+
+*Jim Gwin changes the cowbell patterns and adds a cascara rhythm with a
+3-2 clave in the snare in the Mambo from West Side Story to give it a
+better Latin feel. Also playing along even when the parts indicate bars
+rest in the fast swing part was welcomed by conductor Andris Nelson. He
+liked it and said: 'this was the easiest time ever."*
+
+*They also play non written upbeats to help the orchestra with their
+entrance. The recordings I analyzed show that this is a common thing to
+do but every drummer does what he thinks works. There seems to be no
+general agreement on interpretation. The important remark the
+interviewed drummers made was to keep the upbeats, fills, embellishments
+and grooves simple enough so the orchestra is able to follow.*
+
+*Before this research I was under the assumption that the main role of
+the drummer, the timekeeping part, was absolute essential and always to
+be maintained. This led to my battle feeling with conductors and the
+orchestra. The interviewed drummers do also feel this push and pull and
+even though it is not their ideal picture had less of a problem with
+this. They know band time is not possible in an orchestra and don't
+strive for this against the odds. Arie den Boer plays much more decisive
+when playing in a band. And said : "With such a big group (orchestra)
+you have to be very flexible." Marcel Seriese gives the orchestra room
+to breathe when they have fast lines to play. Not that the tempo
+collapses but a tiny bit slow so the orchestra is able to play it all.
+They are flexible enough to work around it and still make it feel good.
+This realization helped me to be less strict in the time keeping part.*
+
+<a id="research-into-practice">
+
+## Research into practice
+
+
+*Luckily I got the chance to put all this into practice in January of
+this 2020. My orchestra played a concert with a mixed program containing
+Porgy and Bess by Gershwin and West Side Story Overture by Bernstein.
+And accompanying two soloists with a rhythm section with jazzy
+arrangements of Porgy and Bess. I decided to use two drum sets because
+of the diversity of the program. In the [acoustics](#acoustics) section
+you can find the pictures of the placement of the two setup. The
+Bernstein and Gershwin set at the back of the orchestra. The normal
+percussion spot. This helped me connect to my other percussionists. We
+had to play a lot together in these pieces. And the other set, for the
+accompanying part, next to the bass player of the orchestra. The soloist
+and rhythm section were too far apart to hear each other without
+monitoring.*
+
+*During this research period I spent more study time on drums than
+before and took all the advice into account when preparing this program.
+The major change was to think from the bottom up. I spent more conscious
+time on developing my legs using the bass drum and hi-hat as an anchor
+for the rhythms. Through the research of the history of jazz drumming
+and listening to early recordings I got a better sense of how to
+interpret parts. And could make confident choices that served the music
+in a way I found musically and historically appropriate. This worked
+really well for the symphonic pieces. I had a better grip on the
+orchestra, less feeling of a battle and this was the first time I could
+really enjoy playing drum set in an orchestral setting.*
+
+*It did not work so well for the accompanying part. This felt really
+uncomfortable. The music had real open rhythm section parts. My drum
+capacities did not feel good enough to perform at the appropriate
+artistic level. The walking bass player was just like me a classical
+musician and did not have much experience in this kind of music. We did
+not lock together as a good rhythm section should be. Next time I would
+have a 'real' drummer play this section of the program.*
+
+*Even though both drum parts were jazz related these are two different
+kind of programs. A symphonic based and a rhythm section based program
+which need two different kinds of drumming approach. One which is
+flexible enough to play with a conductor and one who can really swing,
+lock in with the bass player and be the foundation for the rhythm
+section.*
+
+*And as we find in the Netherlands and the [story](#story) of Jim Gwin
+shows: there are not many drummers who can do both at a high artistic
+level.*
+
+<a id="limitations">
+
+## Limitations
+
+
+*The hard part of my research was the artistic aspect. In the beginning
+I was searching for recordings of drummers that sounded good. But what
+is good? And who decides? During the analyzing of recordings there were
+choices made by the drummers that would not match my artistic standard
+and rhythms and fills sound out of place. I don't know the background of
+how these choices were made or other factors that influenced the
+recordings. *
+
+*Where the drummers on the recordings actual 'real' drummers or
+classically trained percussionists? What was the setup in the hall or
+studio? How was the cooperation between the conductor and the drummer?
+Was there a limited time frame so there was no time for another take?
+Did the sound engineer or artistic team also notice this? Or was it not
+a problem for them?*
+
+*The analyses of the recordings therefore do not contain much of my
+opinion but focuses mainly on the audible interpretations of the drum
+part and the changes made by the drummers.*
+
+<a id="further-research">
+
+## Further research
+
+
+*During this research I discovered the importance of controlling and
+steering an orchestra with your feet instead of your hands. To what
+extend are, hands orientated, classical educated percussionists aware of
+this aspect and use it when performing these parts? Does it really help
+to have better control of the orchestra? Do the other orchestra members
+consciously or unconsciously notice the difference and do they really
+react on it? *
+
+*This is something that I would like to investigate further. *
+
+<a id="recommendations">
+
+## Recommendations
+
+*Incorporate orchestral drum set lessons in the classical curricula of
+conservatories. A lot of conservatories give classical students the
+opportunity to follow drum lessons. These are mainly given by 'real'
+drummers' who cannot address this specific orchestral side because they
+lack the experience. By giving background information about the drum
+history and the connection with Gershwin and Bernstein, sharing the
+experiences from the experts in the field, and working on the specific
+details of the parts and their preparation, would prepare them better
+for the task. Even though orchestras are doing more of these kind of
+programs, the opportunities to work with a professional symphonic
+orchestra are rare. Rehearsal time is limited so you don't get many
+changes. By incorporating it in the curriculum the group of competent
+players can grow.*
+
+*Conservatories should include pieces which combine rhythm section and
+orchestras in programs for their school orchestras. Crossover programs
+become more and more present and this will reflect the common practice
+in today's orchestras This will get students acquainted and gain
+experience dealing with both sides of the musical spectrum. Creating
+awareness and understanding.*
+
+*Include working with rhythm sections, and drummers, in the education of
+conductors. Knowing what a rhythm section needs from a conductor and
+realizing how interdependent they are would help during rehearsals and
+concerts. Conductors can adjust their gestures or choose to do a
+count-in instead.*
+
+*Creating awareness with artistic teams of orchestras about the
+difficulties when performing groove related programs. This would most
+probably be the role of the classical percussionists of the orchestra.
+It could prevent artistic and financial problems early on in the
+planning process. The choice of doing groove-related programs affects
+agreements with arrangers, being in time to contact the good, and
+limited available drummers, or even a complete rhythm section. Think
+about venue and stage plans for the orchestra and placement of the
+rhythm section. And the necessity to use sound engineers and good
+monitoring. Contracting sound engineers and equipment would lead to
+extra costs. Choosing to cut costs and play without monitoring could
+lead to inferior artistic output.*
+
+*\
+*
+
+<a id="conclusion">
+
+# 8. Conclusion
+
+
+*So what does it take to be able to play the drum set part in a
+symphonic orchestra at a high artistic level?*
+
+*The ideal drummer for a symphonic orchestra must be able to combine
+skills out of two worlds. The flexible time skill of a classical
+percussionists when playing the standard symphonic repertoire of
+Bernstein and Gershwin and tight timekeeping skills when drumming in a
+band setting. Be a master on his instrument and able to play fluently in
+many different styles. A good communicator with a co-creational mind who
+is confident and self aware enough to know when to take over the
+conductors role and lead the orchestra. Having good listening skills for
+being flexible, adaptable and able to follow the conductor when
+necessary.*
+
+*A classical background will help to get acquainted with and interpret
+the gestures of a conductor and have affinity with the timing and feel
+of an orchestra. Drum education prepares you for all the drum skills you
+need, but it is hard to gain orchestral experience in a school setting.*
+
+*This research and process changed the way I play and feel when playing
+drums in the orchestra. Putting it all to practice during the January
+concert of 2020 was a great experience and a lot of things fell into
+place. When people would ask me now if I consider myself a drummer the
+answer would be: "Yes, a symphonic drummer."*
+
+*I want to conclude with something Marcel Serierse said in the interview
+and for me reflects the mentality of the ideal drummer:*
+
+*"You have to think it is not about me. It is about the music and I can
+contribute my qualities. You have to go for the whole picture and not
+because you are that insane drummer. The orchestra has to be happy
+because they can time together with me. And if everybody is happy than I
+am still the one who makes it all possible."*
+
+<a id="acknowledgements">
+
+# Acknowledgements
+
+There are several people I would like to thank during this period of my
+research:
+
+The Royal Conservatory The Hague for making it possible to work with the
+expert in the field. The research team and my fellow circle teams
+members for all the helpful comments and remarks.
+
+My supervisor Marlon Titre for guiding me through the process, defining
+and redefining my research question and your analytic and critical
+thinking.
+
+My wife Birgitta for rearranging family schedules and helping with
+layout and general Word related questions.
+
+Jim Gwin for providing me the opportunity to have lessons on the drum
+parts and ability to watch you rehears and perform with the Boston Pops
+Orchestra. Your experience and tips created the backbone of this
+research. Hans Leenders, Joost Geevers, Marcel Serierse and Arie den
+Boer for sharing your expertise during the interviews. Your honesty and
+openness was a great gift and not only helped me to put this research
+into words, but also reflect on my own playing and development as a
+drummer.
+
+<a id="appendix-a.-analysis-of-parts-gershwin-and-bernstein">
+
+# Appendix A. Analysis of Parts Gershwin and Bernstein
+
+For this research I analyzed the drum parts of the following pieces. I
+choose these pieces because they are commonly programmed in symphonic
+orchestral seasons all over the world. They appear In order of original
+performance dates.
+
+**Gershwin:**
+
+Strike up the Band Overture 1934 (Musical 1927)
+
+Girl Crazy overture (1930 musical)
+
+Piano Rhapsody no. 2 (1931)
+
+Cuban Overture 1932
+
+Porgy and Bess Opera (1935)
+
+**Bernstein:**
+
+On the Town, three dance episodes (1945) musical 1944
+
+Prelude, Fugue and Riffs 1949 premiere 1955 (Big band)
+
+Trouble in Tahiti. - Bernstein 1951
+
+Symphonic Dances from "West Side Story" (1960) (Musical 1957)
+
+A summary of the technical and musical demands are given in Chapter 6
+[Summary of the necessary technical and musical
+demands](#summary-of-the-necessary-technical-and-musical-demands) .
+
+**Gershwin**
+
+**Strike up the Band Overture**  (Musical 1927)
+
+Drum part
+
+A small part of ride pattern swing towards the end of the piece.
+
+**Girl Crazy overture (**for Symphonic Orchestra)
+
+There are many different arrangements to be found of this piece. Songs
+of frequent occurrence are: *'Embraceable you', 'I got rhythm' and 'But
+not for me'*
+
+Drums part
+
+Brushes swing pattern slow to fast tempo's MM 140- 250
+
+Tom-tom patterns
+
+Basic timekeeping boom-click: On bass drum, hi-hat and snare
+
+Rolls and syncopated accents
+
+Extra in the Musical version: ¾ bar swing in Act 1: No.1 Overture
+
+**Piano Rhapsody no. 2**
+
+No real drum part:
+
+Auxiliary percussion: syncopated choked splash and woodblock
+
+'boom-click' pattern on bass drum, hi-hat-snare
+
+**Cuban Overture** (1932)
+
+No drum part but worth mentioning because of the prominent role for the
+percussion section. Includes, Bongo's, Maracas, quiro, claves.
+
+**Porgy and Bess Opera** (1935)
+
+*A Woman is a sometime thing*
+
+<https://www.youtube.com/watch?v=ldPuFA0PG8k>
+
+!{image16}
+
+Drum part:
+
+Brush pattern swing
+
+Ride pattern swing
+
+Marking in part: different traps as. lib.\* (\* m451: Part for first
+production notes "no bass drum")
+
+*Oh I can't sit down*
+
+<https://www.youtube.com/watch?v=CtqDjCPqrIw>
+
+!{image17}
+
+Drum part:
+
+Marching band type snare and bass drum pattern
+
+*It ain't necessarily so*
+
+<https://www.youtube.com/watch?v=kP5O_NUhrK0>
+
+!{image18}
+
+*What you want with Bess, drums start at 2:25*
+
+<https://www.youtube.com/watch?v=E-IhpO4NiMg>
+
+!{image19} 
+
+Drum part:
+
+Slow bass drum snare drum pattern triplet feel
+
+*There\'s a boat dat\'s leaving soon for New York*
+
+<https://www.youtube.com/watch?v=lh5ijrsHx5Q>
+
+{!image20}
+
+Drum part:
+
+brush swing pattern
+
+Woodblock
+
+*A Red Headed woman, drums start at 0:49*
+
+<https://www.youtube.com/watch?v=Am6L7X3GlYo>
+
+Example 1
+
+!{image21}
+
+Example 2
+
+!{image22}
+
+Drum part:
+
+Brush swing pattern
+
+Marching band type snare and bass drum pattern
+
+*Oh Lord, I'm on my way*
+
+<https://www.youtube.com/watch?v=9ptttSZfT6M>
+
+!{image23}
+
+Drum part: 
+
+Syncopated snare and bass drum part
+
+**Bernstein**
+
+On the town Three Dance episodes (1945)
+
+Containing three songs
+
+*1 The Great Lover Displays Himself*
+
+*2 Lonely Town (no drums)*
+
+*3 Times Square: 1944*
+
+Drum part:
+
+Irregular time signatures
+
+!{image24}
+
+Syncopated snare drum/bass drum patterns.
+
+Example 1
+
+!{image25}
+
+Example 2
+
+!{image26}
+
+shuffle pattern, starts with brushes, go to cymbals and builds in
+character.
+
+Brush patterns, accents on 3and. accents on 4and.
+
+Possibility for small fills and lead in the brush sections. Not notated!
+
+**Prelude, Fugue and Riffs** (1949)
+
+Real Jazz ensemble with 'Big Band' drum parts. Big Band drummer
+necessary.
+
+**Trouble in Tahiti** 1951
+
+*Prelude. Daa Doa Day*
+
+Drum part:
+
+Brush swing pattern. Alternating .4/4 en ¾ bars
+
+<https://www.youtube.com/watch?v=-drPgEtRTFU>
+
+*I. How could you say the thing that you did*
+
+Drum part:
+
+Tomtom fills at the end 4:50
+
+<https://www.youtube.com/watch?v=6gdMWjTOFjg>
+
+*II. Yes? Oh mister Partridge*
+
+Drum part:
+
+small swing section 1:05
+
+<https://www.youtube.com/watch?v=4GpiFs8YYTs>
+
+III No drums
+
+*VI. What a movie scene: *
+
+Drum part:
+
+Basic time keeping
+
+Rumba 3/3/2 pattern
+
+Tomtom fills
+
+Marching pattern
+
+<https://www.youtube.com/watch?v=btAAj90c4DM>
+
+*V. There is a law*
+
+Drum part:
+
+Semi shuffle part 3:38
+
+<https://www.youtube.com/watch?v=X8ZvuiQxVXU>
+
+*VI No drums*
+
+*VII. Evenin' shadows are spreadin' softly*
+
+Drum part:
+
+Slow time keeping cymbal and brush
+
+<https://www.youtube.com/watch?v=AVGWSdnxpwA>
+
+**Symphonic Dances from West side Story**
+
+Drum part:
+
+Several times 4 Pitched drum solos and patterns
+
+Example:
+
+!{image27}
+
+Syncopated Rhythms
+
+Irregular Time Signatures
+
+In the *Mambo*:
+
+Cowbell pattern with offbeat bass drum.
+
+Linear Time patterns over the set.
+
+Example 1, Linear Time pattern
+
+!{image28}
+
+Example 2, Linear Time pattern
+
+!{image29}
+
+In the *Fugue*: 
+
+Notated in the part as: Brush on cymbal.
+
+Most commonly played on the hi-hat or with stick/hot rod on cymbal.
+(open close)
+
+!{image30}
+
+Building from to real big band style playing with solo jazz breaks.
+
+!{image31}
+
+*In Rumble:*
+
+'African Style' pattern on snare drum, tenor drum and tomtoms. 6/8 bar
+with accented second eighth note.
+
+Appendix B. Analysis and Comparison of the drum parts as performed and interpreted by the drummer on recordings from Bernstein.
+===============================================================================================================================
+
+For this section I listened to different recordings of the same piece by
+different orchestras and conductors. And therefore also different
+drummers. I focused on the way the drummer interprets the parts to find
+out if there was some general consensus of how they play these parts.
+And the general feel of connection between the orchestra and drummer.
+
+**On the Town.** Bernstein original recording, Leonard Bernstein
+conductor
+
+RCA Victor Symphony Orchestra (Listed as \"On the Town Orchestra\" on
+label)
+
+[https://www.youtube.com/watch?v=A2glmS40fJ4](https://www.youtube.com/watch?v=A2glmS40fJ4)
+
+Overall:
+
+Lots of noise on recording. Vibrant, short and sharp playing in the
+ensemble
+
+Drums sounds far away and a little late.
+
+Drummer does not lead.
+
+Drummer plays almost only as written. Only adding a few Cymbal crashes
+and snare rolls.
+
+*I The Great Lover Displays Himself*
+
+From the beginning of the recording
+
+Tempo half note = 132
+
+B brush on snare like written. No woosh
+
+F Doesn't play the flams and rolls.
+
+I Not on cymbal but on snare
+
+L added a cymbal crash on 2nd bar
+
+*III Times Square: 1944*
+
+From 4:52 on recording
+
+Tempo half note = 88 starts with this and with crescendo gets faster to
+96
+
+Beginning: Basic playing
+
+B: bass drum beats not as written
+
+E: extra cymbal crash
+
+F: six bars of rest before drummer starts. Together with sax entrance.
+
+I: drummers plays snare drum rolls (not in part) following the musical
+line
+
+After 5th bar in K there is a cut to letter T
+
+**On The Town**, Three Dance Episodes. Minnesota Orchestra Conductor:
+Edo de Waart
+
+American Music. Provided to YouTube by Parlophone UK
+
+℗ 1991 Erato Disques, a Warner Music UK Division
+
+Composer: Leonard Bernstein
+
+Overall:
+
+Drummer sounds late. Is a little behind the orchestra and does not lead
+the orchestra.
+
+*I The great Lover Displays Himself*
+
+<https://www.youtube.com/watch?v=FjxqZKWOxKg>
+
+(0:15)
+
+Tempo half note = 116
+
+Concert bass drum is used, no audible drum set bass drum
+
+B: Brush on snare, accented 3 and.
+
+J: small fill just before J
+
+M: missing cymbal first beat
+
+*III Times Square: 1944*
+
+<https://www.youtube.com/watch?v=drhKq0Eawzk>
+
+Tempo half  note = 92
+
+Beginning drummer plays with small embellishments
+
+bar 8 drummer plays exactly what is  classically written. Not together
+with rest of orchestra timing.
+
+D: bar 7 no triplet in cymbal upbeat
+
+F: brush first bar no shuffle. Start from second bar. Bass drum every
+first note of the  bar
+
+Makes variations in bass drum, also triplets.
+
+R: cymbal time with sticks.
+
+S: turns to brushes on snare with swipe
+
+T: misses last two bars
+
+**On the Town**: From the album \"New York! New York! Symphonic Dances
+and Overtures from Musicals\". Performed by the Royal Philharmonic
+Orchestra. Conducted by Carl Davis. 
+
+\(c) Royal Philharmonic Masterworks. Retrieved January 7, 2020.
+
+Overall:
+
+Drummer leads the orchestra. He plays in front of the time.
+
+*I The Great Lover Displays Himself*
+
+[https://www.youtube.com/watch?v=kTpa3MKBCgE](https://www.youtube.com/watch?v=kTpa3MKBCgE)
+
+Tempo half note = 122
+
+B: Brush swipe playing
+
+G: cymbal crashes not audible
+
+I: plays offbeat on hi-hat slightly open
+
+Plays rimshots in the last few bars (not written)
+
+*III Times Square: 1944*
+
+<https://www.youtube.com/watch?v=G7UlCYj0El0>
+
+Tempo half note = 108
+
+Drummer adds phrasing and embellishments
+
+F: Marks entrance with ruff (not written)
+
+Tempo starts at 100 but drops after 15 bars to 94  then goes back to 99
+
+R: plays cymbal on 1 and 3 (notated differently on 2 and + 4 and)
+
+S:leaves cymbal out (as written) plays shuffle pattern (not written)
+
+T: adds bass drum on cymbal notes bars 4 and 5 (not written)
+
+two before U and two after not audible
+
+Ending: short snare roll before snare hit (not written)
+
+The division of the percussion parts in The Symphonic Dances can vary
+depending on the preferences of the percussion players. The tom-tom or
+the cowbell part can be played by a separate percussionist and is
+sometimes played by the drummer. In the recording you cannot hear the
+chosen division.
+
+\*Numbers are bar numbers
+
+**Symphonic Dances from West side story**
+
+New York Philharmonic, Leonard Bernstein. Original released 1961, 1964
+Sony BMG Music Entertainment. Spotify retrieved November 6 2019.
+
+Overall: Real jazz/big band playing, energy and in demand.
+
+8: chocked cymbal
+
+15: 4 fast ride cymbal swing pattern, hi-hat 2 and 4
+
+230: cymbal choked
+
+237: extra embellishment (drag) in snare drum pattern
+
+*MAMBO*
+
+Cowbell pattern not as written , and not consistent in pattern
+throughout.
+
+Offbeat bass drum not audible on this recording
+
+496: cowbell pattern not played as written
+
+504: snare drum pattern is not played as written but follows the brass
+line
+
+*FUGUE *
+
+607: immediate tempo increase from 155 to 165. Brushes swipe pattern on
+snare (with variation)
+
+Bar before 656 drummer goes to ride cymbal. Big band playing style but
+basic.
+
+Solo jazz break, real jazz break playing. Difficult to follow for
+orchestra. Second entrance of orchestra in bar 674 is not together.
+
+685: no triplet upbeats played
+
+688-690: cymbal instead of written hi-hat.
+
+705-730: is skipped in this version
+
+**Symphonic Dances from West side story.** City of Birmingham Symphony
+orchestra, Paavo Järvi. 1998. 2006 EMI Records Ltd/Virgin Classics.
+Spotify retrieved November 6, 2019
+
+Overall: Drums sounds in the beginning a little late and feels not in
+the lead.
+
+154: straight playing, 2 and 4 little accented.
+
+*MAMBO*
+
+Cowbell pattern not as written, pattern is consistent throughout.
+
+Bass drum off beat clearly audible.
+
+496: same pattern as before, but not as written.
+
+504: snare drum pattern is not played as written (with rolls) but
+follows the brass line.
+
+524: rhythm not clearly audible. Offbeat bass drum is firmly accented.
+
+*FUGUE*
+
+607: consistent brush swipe pattern.
+
+656: starts playing ride cymbal swing pattern. Heavy accented snare and
+bass drum on orchestral hits.
+
+666: plays one bar upbeat to 666. Fills in the syncopated rhythm with
+snare, cymbal and bass drum.
+
+Solo jazz break, real jazz break and easy to follow.
+
+681-683: adds hi-hat accents. Are together with the accents in the
+brass.
+
+685: plays swing time
+
+713: plays swing time again with accenting.
+
+**Symphonic Dances from West side story.** Simon Bolivar Youth Orchestra
+of Venezuela -- Dudamel 2007.
+
+<https://www.youtube.com/watch?v=UjNi1dkvTcw>
+
+Retrieved November 6, 2019
+
+8: Played on hi-hat instead of choked cymbal
+
+154: Ride cymbal pattern and adds hi-hat on and 4
+
+*MAMBO*
+
+Completely improvised in the percussion but with Latin feel using drum
+set, conga's, timbales/cowbell and bongo's.
+
+Cowbell with timbales, kind of cascara pattern
+
+No offbeat bass drum but 2 and 2and played.
+
+Hi-hat plays a kind of guiro groove.
+
+496-540: Groove continued throughout, not as written. Accents are
+played.
+
+*FUGUE*
+
+607: played on hi-hat with stick. Opens on 2 and 4. And rim click on 2
+and 4.
+
+656: small upbeat. To ride cymbal swing pattern. Little preparation of
+accents in bar 660
+
+Solo jazz break. Easy to follow, good entrance of orchestra afterwards.
+
+676: Swing pattern on hi-hat for some bars instead of tom-tom lick.
+
+685-701: Messy but follow accents and plays small embellishments and
+preparation of fills. Follows the music.
+
+701 No traps played.
+
+705 Traps starts to play on hi-hat. Nothing is written
+
+713: Swing pattern on cymbal and accents
+
+717-730 Swing hi-hat pattern
+
+**Original Movie soundtrack GMB. 1957.** West Side story Orchestra,
+Johnny Green.
+
+(Drums Shelly Manne and other jazz musicians.) 
+
+Gustavo Maorales Battaglini:
+<https://www.youtube.com/watch?v=Z7OHCrp13Ho>
+
+This is not from the symphonic Dances but used the original soundtrack
+for the movie (1961).
+
+Bars and music don't completely match but enough to compare how drummer
+Shelly Manne interprets the parts.
+
+Bar 154 = 8.18 in this YouTube link: Swing pattern on ride cymbal.
+Hi-hat on 2 and 4
+
+167: Cowbell pattern is different.
+
+179 and on, drummer plays swing pattern on ride cymbal instead of
+tom-toms.
+
+243: same as in figure 179
+
+*MAMBO 18:37*
+
+Different cowbell pattern played
+
+No audible bass drum but conga's on offbeat.
+
+466 Cowbell pattern continues
+
+524 Continues patterns
+
+*COOL/FUGUE (56:18) *
+
+Drummer plays everything on the hi-hat, no use of ride cymbal.
+
+Plays closed hi-hat, until (656)
+
+Cool: gets faster at a certain point. The orchestra has to adjust to the
+film.
+
+656: Still on hi-hat but opening on 2 and 4. Big band style of playing.
+
+666: complicated fills and one bar longer than in the Symphonic Dances
+version. The drummer plays even longer.
+
+676 plays hi-hat and no tom-toms
+
+685 plays all the accents with brass and everything on hi-hat.
+
+705 plays along. (no drums written in Symphonic Dances)
+
+Appendix C Musical skills
+=========================
+
+Extracted out of Duque, Jose Roman, "The Drummer's role" Kindle edition
+(2017)
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Musical Skills</strong> Drummer in Band</th>
+<th>times mentioned</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Time</strong> (great/sense of)</td>
+<td>8</td>
+</tr>
+<tr class="odd">
+<td>Groove (able to/sense of)</td>
+<td>6</td>
+</tr>
+<tr class="even">
+<td>Solid Rhythm</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Rhythmic Backbone</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>NO time keeping policeman</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Taste</strong> (sense of)</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>Feel (make it feel good, feels the rhythm inside)</td>
+<td>4</td>
+</tr>
+<tr class="even">
+<td>Creative rhythmic vocabulary</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Sense of form and orchestration</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Good sense of dynamics</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Great ideas</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Creative and interesting texturally to the music</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Addressing specific musical needs</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Support the song</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Provide the right emotional peaks and curves</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Give meaning to the form</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Draw intentional landscape</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Providing a good ride for everybody in the ensemble</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Sense of musicality</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Sense of melody within the drum set</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Color any given song</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Less is more</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><strong>Tone</strong> (great sound)</td>
+<td>3</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Appendix D Personal skills
+==========================
+
+Extracted out of Duque, Jose Roman, "The Drummer's role" Kindle edition
+(2017)
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Personal Skills</strong> Drummer in Band</th>
+<th>times mentioned</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Ability to Listen/Listening</td>
+<td>5</td>
+</tr>
+<tr class="odd">
+<td>Professionalism</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Interaction/communication on and off stage</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Energy</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Inventive/creative</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Be aware of the primary role</td>
+<td>2</td>
+</tr>
+<tr class="even">
+<td>Controlled/surrender ego</td>
+<td>2</td>
+</tr>
+<tr class="odd">
+<td>Balanced emotional state of mind</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Patience</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Self confidence</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Musician that happen to play drums</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Lift other players</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Welcoming input</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Willing to go deep into the music</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Great memory</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+Appendix E Technical skills
+===========================
+
+Extracted out of Duque, Jose Roman, "The Drummer's role" Kindle edition
+(2017)
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>Technical Skills</strong> Drummer in Band</th>
+<th>times mentioned</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>Good Reader</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Comfortable in odd time signatures</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Comfortable in many styles</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Good balance in all limbs</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>Having flowing and consistent linear playing</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>Knowledge of different styles</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+ Appendix F. Summary of the Master class by Jerry (Gerald) Scholl on Drums in Orchestra.
+=======================================================================================
+
+Jerry Scholl is the principal timpani, percussion and drum set player in
+the Wichita Symphony Orchestra in Tulsa. And head of the percussion
+department at Wichita State University. His former teachers are**:** Vic
+Firth and Fred Buda (former drummer of the Boston Pops). I attended his
+master class at the Conservatory of Amsterdam on October 20, 2018 where
+he showed and talked about his approach to playing drum set in an
+orchestral setting. This is a summary of this one hour lesson.
+
+**Drums in orchestra**
+
+-Know the part better than anyone else, including the conductor.
+
+-Get into the music, no matter what
+
+-Where do you set up. Communication. (with rhythm section in front)
+
+-How to setup music
+
+-Every setup is different
+
+-K.I.S.S. Keep it simple stupid. Don't get in the way
+
+-An orchestra is like an oil tanker, keep it simple, help everybody to
+play well.
+
+-Acknowledge time has changed. (no special historic informed playing)
+
+-Play character of the music.
+
+**Charts and Challenges**
+
+-Charts are unreliable
+
+-Research and preparation!!!
+
+.recordings
+
+.make part, numbers, phrases, lyrics.
+
+-Identify Basics
+
+.Style: Rock/Jazz/Latin/World
+
+.Tempo
+
+.Show/Broadway use original cast recordings for reference), Movies,
+Orchestra
+
+**On the town, three dance episodes -- Bernstein**
+
+-brushwork
+
+-Color the orchestra, more fun.
+
+Play like a Big band (L. Bernstein said)
+
+Tip: Listen to big bands for reference
+
+Part *I The Great Lover Displays Himself*
+
+Beginning: He puts bass drum under cymbal for extra punch. 
+
+B: lead in the brush section and plays accents on 3and
+
+Part *III Times Square 1944*
+
+**B:** 2ex bass drum with cymbals (played dry) on the accents
+
+**C** Kick op 3and en open hi-hat
+
+**D** end 1 2and instead of 1 2 3
+
+**F** start easy 4 quarter time playing then building intensity
+
+**Q** +cymbals with bass drum
+
+2 before **T** Basses are in 4, so bass drum plays 4 on the floor
+
+**X** +put extra cymbals with the bass drum to give length tot the notes
+
+Appendix G. My observations on rehearsals and concerts
+======================================================
+
+**1. Rehearsal Boston Pops Orchestra with Jim Gwin (drums) **
+
+Symphony Hall Boston (MA). May 15,  2019 from 9am - 1pm
+
+program: Summer of '69 with guest artist Arlo Guthrie
+
+Communication Personal:
+
+The rehearsal started with the rhythm section (drums, piano, guitar,
+bass), conductor and guest artist.
+
+It was interesting to see the 'off stage' communication between Jim and
+the rest of the rhythm section. They knew each other but it was a long
+time ago they met in this combination. There was a lot of humor going on
+and genuine interest. 
+
+Place on stage and acoustic:
+
+The rhythm section (guitar, electric bass, piano, drums) was placed at
+the back and the guest artist in front of the stage. There were monitors
+for all the players. The drum set was placed behind transparent Perspex
+screens for loudness of sound and to avoid spill. 
+
+Sound amplification in the hall sounds fine. Even the brushes on snare
+are audible. 
+
+Preparation:
+
+There is only one rehearsal for this program. They did play it several
+years ago and hired the same players for the rhythm section. 
+
+Parts:
+
+The first piece was a medley and the details of routing of the song
+still had to be worked out. Some parts of the rhythm section were not
+present yet. The Librarian rushed to get them in time for the complete
+orchestral rehearsal.
+
+Tempo: 
+
+Conductor used a metronome to get the right tempo for the piece.
+
+Interpretation and preparation:
+
+Rhythm section rehearsal:
+
+Jim is playing his hi-hat (two and four) constantly to establish pulse.
+Even when he does not have to play. Jim is playing and leading all the
+transitions and is really the basis of the band. He is playing
+dynamically, lively but to the point.
+
+Complete orchestra rehearsal:
+
+Jim plays a bit louder during this rehearsal. And stays steady even
+though the conductor is rushing. After an introduction section of the
+orchestra Jim pulls the time backwards when entering. Getting the song
+to the 'right' tempo.
+
+Conductor:
+
+The conductor gives clear hand signals for Vamp and continuing. All
+these pieces start with a solo intro of Arlo Gutrie or he counts in the
+tempo. 
+
+Communication Drummer Conductor:
+
+Jim has a lot of eye contact with the conductor. After the rehearsal he
+walks to the sound engineer to fix a monitor problem. (not during the
+rehearsal)  The working atmosphere is relaxed and a little bit chaotic.
+Not many pieces are played. Trust in professionalism? 
+
+Connecting with Orchestra.
+
+Connection with the strings players is difficult. Monitoring problem?
+There is disciplined orchestral playing and the string players sound
+very rhythmical.
+
+**2. Concert Boston Pops Orchestra with Jim Gwin (drums)**
+
+Symphony Hall Boston (MA) May 16, 2019. Started 8pm Program: Summer of
+'69 with guest artist Arlo Guthrie. Conducted by Keith Lockhart.
+
+General:
+
+High level of artistic playing. I noticed a few of the things we talked
+about during the lessons. Jim was solving some problems when the
+orchestra started to shift. Getting the right tempos even when the
+conductor is (looking from the audience) not clear. Jim is catching the
+soloist and plays 'flexible in time'.
+
+**3. Rehearsal Residentie Orchestra with Marcel Serierse (drums) **
+
+Rehearsal Hall Residentie Orchestra, November 14, 2019 program:
+Symphonic Junction Residentie Orchestra ft. Sven Figee.
+
+Drummer- Conductor:
+
+The conductor starts the rehearsal with the first piece that starts with
+a only drums 'Jeff Porcaro style' shuffle for eight bars. The conductor
+gives 'three, four' with gestures and Marcel starts to play not in the
+tempo given, but in the tempo needed for the song.
+
+After the piece ends we start from the beginning again. The conductor
+says to Marcel: 'I will give you a cue to start and then just start to
+play'.
+
+**4. Rehearsal Residentie Orchestra with Arie den Boer (drums)**
+
+Rehearsal Hall Residentie Orchestra, December 7, 2019
+
+program: Zilveren Kruis Gala concert in Muziekgebouw aan het IJ.
+
+Place on the stage and acoustic:
+
+The drums and percussion is setup at the back of the rehearsal stage.
+There is a singer who also plays piano in front of the stage, next to
+the conductor. During the rehearsal it is difficult to hear each other
+and really play together. The singer asks if the drummer can play more
+(meaning louder). The result is that the drum set is moved almost to the
+center of the orchestra and closer to the singer.
+
+Communication:
+
+With another piece the drummer feels that the bass section of the
+orchestra is behind him and the tempo of the conductor is too slow for
+the tempo indication given by the arranger.
+
+The drummer addresses this problem after finishing the piece. The
+conductor checks the tempo and we do the piece again. Now in a faster
+tempo. The bass section is also more alert to the drum pulse and is more
+exact on the beat.
+
+In the break the drummer talks to the conductor and the production to
+see if it is possible to get the drums closer to the singer and bass
+section of the orchestra. They decide to do so for the next rehearsal in
+the hall.
+
+**Appendix H. Interview Hans Leenders**
+=======================================
+
+September 13, 2019, Translated by Martin Ansink from Dutch to English
+
+Interviewer: Martin Ansink (MA)
+
+Interviewee: Hans Leenders (HL) Conductor
+
+Hans Leenders (the Netherlands, 1971) studied percussion and conduction
+at the Rotterdam Conservatoire. He started his career as a percussionist
+with the Rotterdam Philharmonic Orchestra, where he became Valery
+Gergiev's assistant in 1999. He worked with orchestras such as the Noord
+Nederlands Orkest, the Brabants Orkest, the Residentie Orkest and the
+Royal Concertgebouw Orchestra. Abroad, he conducted orchestras such as
+the Orchestre National du Capitole de Toulouse and the Orchestra of the
+Mariinski Theatre in Saint Petersburg.
+
+On Conductor Drummer
+
+**MA**: What does a conductor need from a drummer?
+
+**HL**: That he sounds like a drummer. The band skills, that he knows
+how to groove, nice in each style. So that it sounds like real drummers
+do. Not with fancy stuff. It has to feel nice and really tight. This is
+something of the first things I miss when a classical percussionist sits
+behind the drum set.
+
+The best experiences were with drummers (Arie den Boer, Arno van
+Nieuwenhuizen) who could move to the classical side. How the orchestra
+is timing, how do you start with a regular conducted upbeat instead of a
+count-in. Counting-in is what they prefer, they are used to that. They
+can have a discomforting feeling when faced with classical timing. 
+
+Knowing what happens around you and anticipate. The game of: here is the
+timing, this group is late, where to choose for, how do I get between
+them and make the end result sound well. Without being on an island and
+go on by yourself.
+
+That is a typical classical percussion skill.
+
+The more drum skills you have, there seems to be a contrast with
+flexibility in timing. It seems less.
+
+**MA**: Is that a matter of experience or focus?
+
+**HL**: Definitely another focus which will improve by experience. I
+think that drum skills are more important because I can work around the
+rest and coach the drummer.
+
+Sometimes I take him apart and explain what happens in the orchestra.
+They can feel insecure because they don't 'understand'.
+
+Drummers also think: I don't go along with that, this is where the
+timing is. they have to come to me (drummer).
+
+Classical timing is not always desirable. Playing late can is sometimes
+thought of as a beautiful thing. 
+
+I prefer to bring the orchestra towards the drummer and not the other
+way around. As a conductor you have to take a position in this case. It
+is dependant of repertoire but when it is drum/drum repertoire there is
+no question mark. The drummer is in demand and if another musician can't
+hear him than play on my gestures.
+
+And I manage to get a lot of drummers towards the classical timing. I
+adjust my gestures and make it come together. I prefer that above a not
+good sounding classical drummer.
+
+On acoustics
+
+**HL**: Sometimes it is hard to hear each other because of acoustics.
+The NNO (Noord Nederlands Orkest) choose to use in-ears when faced with
+groove related music. I
+
+I have to convince the orchestra to use the right mix. Preferably put
+hi-hat and kick drum in the mix. Because of the in-ears it sounds more
+tight, like the Metropole Orchestra. That is an orchestra who really
+feel it. 
+
+We are normally used to time 'from a distance'.
+
+On orchestra
+
+**HL**: Musicians (Wind players) may think they play on time. The moment
+they make sound it is less direct than percussive sounds and can
+therefore sound late. It is an internal difference in timing.
+
+With *Gershwin and Bernstein* the timing can be stretched. When the
+Mambo starts you have to keep the tempo. But with the tom fills more
+like a classical orchestra. Don't wear an eye mask.
+
+**HL**: Most conductors are not deep enough into the specific drum
+matters to indicate the difference and al the finesses of a drummer. I
+know that I immediately hear if it a drummer sounds like a drummer or
+not.
+
+The biggest part, maybe 95% of the organization, (Artistic leader,
+programmer, Artistic committee) in a classical orchestra does not have
+the right frame of reference to determine this. Sometimes not even
+within the percussion section. There is no knowledge and hopefully they
+ask for input. The drummer who is asked to play is sometimes the one who
+says that a band is needed.
+
+When there is a band (Bass, Piano Guitar) The always feel immediately if
+a drummer is good.
+
+There is also a financial aspect to this. What are the costs to ask for
+extra band players. And who is our audience? Who of the audience will
+hear the difference? For who do we want to play at this high artistic
+level. The classical audience will probably not hear it, but the
+pop/jazz audience will.
+
+Therefore it can happen that there will be a clash between the drummer
+and the organization. Drummers who have this experience can be too
+dominant for an orchestra or conductor.
+
+On drummer:
+
+**HL**: Jazz and pop musicians need, next to having a good drummer, to
+have a someone with an own 'sauce'. I don't care about that. It has to
+be in the right groove. In jazz and pop the demands are higher.
+
+The responsibility for the tempo is in the hands of the drummer after
+the initial upbeat.
+
+For *Gershwin and Bernstein* there is no need for such a 'sauce'. Even
+when the timing is going on it has to have a bit of flexibility.
+
+**HL**: The ability to read.
+
+<a id="appendix-i.-interview-marcel-serierse">
+
+# Appendix I. Interview Marcel Serierse
+
+November 14, 2019 after a rehearsal with the Residentie Orchestra with
+Sven Figee. In the preparation for a concert in Paard.
+
+Translated by Martin Ansink from Dutch to English
+
+Interviewer: Martin Ansink (MA) Drummer
+
+Interviewee: Marcel Serierse (MS)
+
+Marcel Serierse (1962) graduated from the Rotterdam Conservatory and
+continued his studies in New York with, among others, Steve Gadd and Mel
+Lewis. As a versatile studio and live drummer, Marcel Serierse is much
+in demand. He played with Chaka Kahn, Bob Brookmeyer, Toots Thielemans,
+Michel Petrucciani, Al Jarreau and many others. He works with several
+orchestras including the Residentie Orchestra, Metropole Orchestra and
+the Jazz Orchestra of the Concertgebouw. He teaches at the
+Conservatorium van Amsterdam
+
+On drummer and orchestras:
+
+**MS**: There are a lot of good drummers, but this is another kind of
+thing. Especially with this kind of program, like now. You have to be
+able to play jazz, kind of fusion, kind of metal. The styles have to be
+prominent and most important, you have to able to play with an
+orchestra. And there are not many drummers who can do that.
+
+On preparation
+
+**MA**: You play in different musical settings, what is the big
+difference according to you?
+
+**MS**: You constantly deal with differences, you basically know which
+style it should be, so you are able to play these styles. You adjust
+your set, your cymbals and sticks. That it sounds the way it is supposed
+to sound,
+
+The magic word is Flexibility and Adaptability. You have got to know the
+styles and know in which setting you will end up. When playing in a
+church you don't bring your loudest stuff and when playing in an Arena
+it is another setting. You have to be prepared and think of everything
+in advance. Who do I play with and what kind of music is it, more
+classic, rock or play with click track, whatever.
+
+**MS**: Be prepared so you can play in a way that they have trust in
+what you do. Be prepared. I cannot do this without preparation. Listen
+to recordings, ask for charts and be prepared. Than you can play with
+conviction.
+
+You have a rehearsal to rehearse, but I want to be able to play good at
+the first rehearsal.
+
+On drumming with orchestra. Volume:
+
+**MS**: In this setting you just know: for starters don't play to loud.
+You can say it is Metallica, but that is just a pity. If I play with the
+volume they play on the records then the whole orchestra will run away
+in three bars time. That is not possible.
+
+It is not about volume, but intention, that you can play in the right
+atmosphere and style and blend with the classical musicians. Adjust your
+volume and groove. You can play with double bass drums but nobody is
+going to hear anything anymore of the orchestra.
+
+You simplify the original, but in a way it matches with the orchestra.
+
+Some orchestral musicians assume when they see a drum set that is going
+to sound loud and harsh. So I have to protect my ears and put plugs in.
+
+On conductors and cooperation:
+
+**MS**: When I entered the conductor came to me and said: "you are my
+biggest support these days". That should be the other way around but you
+see that a conductor is dependent on a drummer who knows what he is
+doing. I tell the conductor:"I need you". We need each other, you have
+to do it together. And sometimes it is push and pull.
+
+When you notice that the orchestra is not able to play something in a
+certain tempo, you can say; "fock it", but of course that is not the way
+it works.
+
+I made that mistake (25years ago) when I played with Rogier van Otterloo
+(conductor of the Metropole Orchestra at that time). His face turned red
+and I did not know what was happening. I played in the right tempo, but
+it felt a little bit too fast, and because of that the strings could not
+fit in all the sixteenth notes. That's why he was waving and indicate it
+was supposed to be slower. But i did not realize it at the time.
+
+I thought, who is the tight drummer here? I m not going to slow down
+now.
+
+He took me apart during the break. And he was absolutely right and
+explained clearly that music is not one straight line but has to breath.
+Not that you hear the tempo collapse, but you give it space to breath if
+you take it a tiny bit slow so the orchestra is able to play it all.
+
+**MA**: Can you explain more about not collapsing the tempo?
+
+**MS**: Of course you can play on top, in the middle or behind the beat.
+It is the same tempo but you pull it a little bit down. Then you get the
+space so they can get the phrasing out, a little slower. You have room
+to maneuver. When you go from a Bridge or A section to whatever you can
+take the feel of the tempo, if the music asks for it, a little bit
+faster or slower. You cannot do this when you play with a click. As long
+as it does not feel slow or stringy it is okay, if the playing is tight.
+
+**MS**: My classical experience is having snare drum lessons, no
+orchestral experience. And taught myself how to play the drums.
+
+The first time with strings and a conductor was with the Metropole
+Academy and conductor Rogier van Otterloo. Rogier had a jazz background
+so I could play on that. It was hard at the time but I managed quite
+okay. Later on I did more productions with classical orchestras and
+conductors. And sometimes did not understand what was going on. You
+expect a 'one 'and then the orchestra play's late. You have to work
+through that, await and learn how to approach that.
+
+**MS**: When you play 'In the pocket' music it is more difficult. Where
+to put the beat, It is hard, but again the magic word: Flexibility and
+Adapt.
+
+Use your ears and be aware of your surroundings. You have to be
+concerned with what you play yourself. But technically you have to be
+able to play on auto pilot. If you can do that you can focus on what is
+going on around you. Your ears will open up and you hear so much more.
+You can blend better. That is an essential skill for drummers. And this
+is something is teach my students.
+
+On communication
+
+**MA**: Do you feel responsible for the tempo and that it feels good?
+
+**MS**: Yes indeed. If I would play on and think: get lost, than there
+will be friction. You have to find a way to find each other in a good
+way.  When you feel the orchestra is dragging and inert like a dredger,
+then you go and talk to the conductor You ask:"Do you also want me to
+take it a bit slower or shall we give 'fire' to the orchestra? That is
+communication. Some people find that hard to do but it is something you
+can discuss. Sometimes people don\'t dare to approach you, but I don't
+feel insulted. The way you approach so The way you approach someone is also important. If you do
+it in an unsympathetic way than you think: get lost. But do it in a good
+way and you will find common ground. It doesn\'t mean you are a bad
+drummer. But if things musically don't work out you have to address the
+issue.
+
+On acoustic
+
+**MA**: Do you feel the same push and pull outside this classical
+setting?
+
+**MS**: Yes sure. It is different with each band. Some are playing more
+in front of the beat and some more behind. It also has to do with the
+location. If you cannot hear each other, for example the brass players
+and the rhythm section, they have the tendency to play behind. You feel
+that immediately en have to search for each other. I also address that. 
+
+On flexibility:
+
+**MA**: Are you more flexible when you play with a symphonic orchestra
+or when you play in another setting?
+
+**MS**: Not in such a way, every day and every situation is different.
+Sometimes you are lucky sometimes you don't and you have to be even more
+flexible. Sometimes you are prepared, like here with the orchestra, I
+expected it to be more difficult. There are a lot of notes written and
+in a many different styles. When we started to play I felt it locked
+already very good.
+
+You can prepare as much as you can and listen to the originals as much
+as you can. But this is totally different. You know the song and style,
+but you don't know the intention and timing of the orchestra. That is an
+uncertain factor.
+
+On personality and professionalism:
+
+**MS**: I grew up with playing lots of different things. I like that and
+they ask me for that.
+
+I think it is most important that people know what they get when they
+ask you. There are an insane amount of drummers, playing faster or
+louder, but that does not mean they function well. When people know, you
+can call him, he has good sounding instruments, knows his parts, is well
+dressed. Just the whole package. And communicated in a way that is
+pleasant. There are drummers who cancel gigs on short notice or are
+stubborn. People choose someone who is open and flexible. The whole
+package is important. That sticks with the people who organize and
+produce. 
+
+On education:
+
+**MA**: Do you think there are students at the conservatory's who are
+able to play with an orchestra and conductor?
+
+**MS**: Eventually yes, certainly concerning drum qualities. They have
+what it take to do this. They only have to gain experience and you can't
+practice that at school. That's the problem.
+
+But some of them will be able to do this.
+
+**MA**: Have you play Bernstein and/or Gershwin?
+
+**MS**: A long time ago. It is classically written. That is difficult
+because it is just a swing rhythm, but when you look at it you wonder
+what it is? The classical notation makes it hard.
+
+On drummer Skills Personality:
+
+**MS**: A quality of a good drummers is their ability to take control in
+a nice subtle way. But if it is not working out the way you want you
+also have to have the capacity to really take the lead and play in
+demand. Here is the beat and follow me.
+
+**MA**: Would you do that in situations like this (orchestra)?
+
+**MS**: Your flexibility can go a long way but there is a limit. You
+think, until here and not any further.
+
+**MA**: When the tempo is 10 beats to slow or the upbeat is not clear?
+
+**MS**: Then I think: this is the tempo and play and see if the
+orchestra is able to follow. The most important thing is how I sound
+with the orchestra and not what the conductor is doing.
+
+If you close your eyes, it is more important what you hear than what you
+see.
+
+You have to think it is not about me. It is about the music and I can
+contribute my qualities. You have to go for the whole picture and not
+because you are that insane drummer. In this case it is about Sven
+Figee. He is the star of the evening en has to be happy what he hears
+behind him.
+
+The orchestra has to be happy because they can time together with me.
+And if everybody is happy than I am still the one who makes it all
+possible.
+
+On drummers
+
+**MS**: Groove, Beat, pulse and tempo is not coming from your hands. But
+from the feet, especially the bass drum, that is your pulse.
+
+**MA**: If you hear the orchestra is shifting do you play your bass drum
+stronger?
+
+**MS**: Never just the bass drum, I think and feel from my feet. I put
+my hands on top of that and then you have it complete. If you notice
+something is happening in the band with the timing, you don't play one
+part of your drum set stronger. That absolutely has to be one thing.
+
+Without the bass drum it sounds light. No body, no bottom. With your
+hands you choose the color, the sauce.
+
+Listen to the legends of the early years. Zutty Singleton, Baby Dods,
+papa Joe Jones, Shelly Manne.
+
+When you hear two drummers play well you think why does this one play
+with so much depth? Because they think from the bass drum. Bottom sound
+and not the top. That makes the difference.
+
+On education:
+
+**MA**: Do the classical students Amsterdam have drum lessons?
+
+**MS**: No, there is no overlap there. Jazz drummers do have classical
+percussion lessons. At a very high level and it is very important. For
+reading and sound.
+
+I try to play with a nice open technique. It sounds more musical.
+
+Appendix J. Interview Arie den Boer
+===================================
+
+December 9, 2019. Between rehearsal and concert of the Residentie
+Orchestra. Playing drums in a few sing and songwriter arrangements.
+
+Translated by Martin Ansink from Dutch to English
+
+Interviewer: Martin Ansink (MA)
+
+Intervieuwee: Arie den Boer (AdB) Drummer
+
+Arie den Boer studied percussion at the Conservatory of Rotterdam. He
+plays and records in a diversity of bands and orchestras in a variety of
+styles from classical to Jazz, pop, rock, funk, latin, balkan & world
+music. Arie works with all the major symphonic orchestra's in the
+Netherlands, including the Residence Orchestra, Radio Philharmonic
+Orchestra and Belgrade Philharmonic. He is also performing with the
+Metropole Orchestra and is a member of Slobodan Trkulja & Balkanopolis.
+His experience includes jobs with Blue Man Group Amsterdam, Amsterdam
+Percussion Group, Elvis Costello, Pat Metheny, Richard Bona and many
+others.
+
+On preparation:
+
+**MA**: How do you prepare these parts:
+
+**AdB**: When you know which pieces are programmed I make a Spotify
+playlist.
+
+So I can listen to the songs and their feel, style and tempo. So I can
+get in to it. Parts are normally send late and this I can do without
+parts. I try to approach the sound of the record.
+
+Advise:
+
+**Ma**: What would you advise someone who Is doing this for the first
+time.
+
+**AdB**: When I did this the first time, 30 years ago, when you enter
+with your drum set people in the orchestra already thought it was too
+loud. Make sure you blend in your surroundings. Play soft but with
+dynamics and sound. Playing soft is an art in itself. 
+
+And Listen!
+
+ 
+
+On conductor and drummer:
+
+**AdB**: You see the conductor and you hear what is going on around you.
+And you maneuver in between. You are the time keeper but you can't just
+play straight ahead and think: screw it, you have to follow me. That's
+not how it works. You have to give and take between everything that is
+going on around you.
+
+This week with one of the pieces it was unclear. Than I can try to say,
+this is the tempo, but if the bass players (orchestral) are thinking
+something else. I question: Are they going to listen or go with the
+conductor? Then I discuss this with the conductor because the most
+important thing is the music. Getting it together and make everybody
+happy.
+
+Like you are the bus driver. Everybody is getting in the bus, but you
+drive it. It is not something I do consciously. If it works out the
+orchestra feels you are doing it together.
+
+The line between the drummer and the conductor is very important. It is
+about trust. The conductor must have faith in you. When they know you
+and see you again they must think: 'This will be fine'. But if you don't
+know each other, you have to find a way to make it work.
+
+**MA**: Can you specify what they have to trust?
+
+**AdB**: The drummer is the time keeper. And they should have the trust
+that the orchestra will follow you. As the drummer you have to enforce
+that they listen to you. But not by playing loud.
+
+I had the experience that it did not work out, because the conductor did
+not work together. Giving entrances at the wrong moment without contact
+with the band. It resulted in wrong entrances during concerts.
+
+A lot of classical conductors don't have a clue about tempo. When it is
+84, don't give 82. 
+
+It has to be spot one. I like to work with conductors who use a
+metronome, or with in-ears, and when you start playing than the
+metronome can stop. Than the train is running, and they can work on
+other things, like helping the soloists entrance, than beating the bars.
+They then have another function.
+
+With orchestral intros it works differently and the conductor has to
+make sure he has the right tempo when the band starts to play. If that
+is not okay you have to force the tempo to be right and hope the
+orchestra follows. Sometimes you can play an extra upbeat to help.
+
+The orchestra's I work with get more and more acquainted with this kind
+of playing. 
+
+On in-ears:
+
+**AdB**: In ears do help a lot, but you have to have a good sound
+technician who now how it works.
+
+I have my hi-hat low in the mix, mostly on the overhead so I hear the
+natural dynamic.
+
+It works very well with in-ears. It is great to be able to hear the harp
+who is on the y other side of the stage
+
+On experience:
+
+**AdB**: I started with playing in wind bands when I was young and their
+I learned what a conductor is doing and play accordingly. For a lot of
+drummers it's hard to know what to do with a conductor or an orchestra
+because they don't have that experience.
+
+I'm glad I studied classical percussion also. So I have affinity with
+classical music and how it works with, for instants, violin playing.
+
+On flexibility:
+
+**MA**: Are there more ensembles that you play with that requires this
+amount of flexibility?
+
+**AdB**: Because it is such a big group, you have to be very flexible.
+When you play with a band you are more decisive and leading in you
+playing. That is different.
+
+On styles:
+
+**AdB**: The drummer is the one with the most knowledge of the styles
+and the parts. Being conscious of styles is very important. It has to
+sound authentic. With the French songs we are doing now I can tell the
+orchestra is really trying to get in my groove and play along.
+
+During my whole live I listen to music a lot. And in all different
+styles, from classical to jazz, 60's, just everything. I listened to how
+it sounded and how it was played. When I studied I researched who
+played. The Steve Gadd's, Vinnie Colaiuta's and Dave Weckl's. How did
+they play and where did they get their inspiration from. The drummers
+before them, and then I listened to those drummers, and so one. I also
+read a lot about them. How did it sound back them, which instruments did
+they use. And now with YouTube you can see also how their setups are and
+how they moved. That is something I really like. Opposed to people who
+think, this is the way I play and sound, regardless of the style. For me
+the challenge is to play authentic as possible. And that is also what I
+do in my profession, playing in all different kind of settings.
+
+Appendix K. Interview Joost Gevers
+==================================
+
+Conductor. December 8 2019
+
+Translated by Martin Ansink from Dutch to English
+
+Interviewer: Martin Ansink (MA)
+
+Interviewee: Joost Gevers (JGe) Conductor
+
+Joost Geevers is a conductor, trombone player, composer and writer. He
+studied at the Royal Conseravtory The Hague. As a guest conductor he
+conducted the Residentie Orchestra, Nederlands Blazers Ensemble, Ives
+Ensemble, Percussion the Hague, Aarhus Sinfonietta and many others. He
+is co-founder and member of Fast Opera Productions and Neo-Fanfare 9x13.
+As a musician/actor he worked with Ballet Orkest, Radio Filharmonisch
+Orkest, Nationale Opera, Noord Nederlands Tonlee and Club Guy&Roni,
+
+Since 2016 Joost is a teacher at Royal Conservatory the Hague and Codart
+in Rotterdam.
+
+On conductor and drummer
+
+**JGe**: What I do is come to an agreement with the drummer on how to
+begin. Sometimes when it starts with a couple of bars with only drums,
+he starts on his own. But with some changes I want to give an upbeat. It
+has to be clear to both of us who takes the initiative so we don't wait
+on each other. And then you have one change to give an upbeat. 
+
+Drummers normally know very well what the tempo should be. And then it
+depends on who is drumming. You can't influence the drummer by beating
+against his time but that is useless. I always go with the drummer.
+
+On acoustics
+
+**JGe**: Depending on how big the orchestra is and how well they can
+hear each other I have two ways of dealing with this. If it is small and
+everybody hears each other acoustically. And If they can\'t hear it I
+beat with the drummer.
+
+As a conductor it is hard to hear the percussion. you hear the principal
+strings loudly. When you can just hear the wind players, than you now it
+is balanced in the hall. You hear the percussion but hard to follow and
+difficult to get everybody along.
+
+I did a piece which had a castagnettes pattern in ⅝ bars and difficult
+rhythms in the strings. You can count on the percussion players to play
+straight on in tempo. If that is not the case you are helpless as a
+conductor.
+
+On conductor
+
+**MA**: Is your conducting then more tight and with more puls?
+
+**JGe**: Yes, normally, without a drummer, you conduct a little before
+the orchestra. But then I make sure it is exactly with the drummer. And
+then ask the orchestra to really time with the drummer. Otherwise it is
+possible that the drummer is also reacting on my reaction to the
+orchestra. I try to get the two in line. If something, for instance
+tempo, I talk with the drummer. Almost never with movements. I'll stop
+and address it. And with the most drummers that works.
+
+**MA**:Is it something you learn in your conducting lessons? 
+
+**JGe**: No that is not in the lessons. Maybe because I am an orchestral
+musician myself that I understand how it works. During the lessons they
+tell you to take the lead, otherwise you are not a conductor. Show you
+have a function.
+
+And with these things you search for what your function is. I see it as:
+organizing and coordinating. It is a big advantage that you have a
+drummer. Keeping Tempo is out of your 
+
+hands and you have time for a lot of other things instead of keeping
+things together.
+
+I think every conductor who is doing these kind of programs is worrying
+and hopes the drummer is good. The drummer is acoustically the most
+powerful.
+
+On Communication:
+
+**JGe**: before the first rehearsal start I always go to the drummer and
+say something like: 'I', glad that you are here. It makes my life much
+easier. Then he knows I give him responsibility and he can take
+initiative.
+
+If it doesn't work out in the rehearsal I will talk to him.
+
+On cooperation
+
+**MA**: Are there more occasions that require the same kind of
+cooperation?
+
+**JGe**: Yes, most of the time with percussion. If you do the Bolero you
+also don't get in the way. Or the snare drum part at the end of the
+Symphonic Dances from Rachmaninov. I try to get the same co-creation.
+You only conduct more symphonically. That means the whole orchestra
+speaks the same language and it is less beat/pulse related conducting.
+But I try to conduct in a way that the orchestra also listens to the
+snare.
+
+I don't look at the drummer al the time, but with every transition I see
+that Marcel Serierse makes eye contact. That makes it very easy.
+
+When classical orchestral percussionist play the drum set it is
+sometimes different because some of them are used to get the entrance,
+upbeat and tempo's from the conductor. And sometimes they want me to
+give the tempo's. Than this becomes my responsibility. They are less
+determinative. And I try to get them to do it. The orchestra will follow
+the drummer anyway, I am not going to do anything.
+
+On Tempo
+
+**MA**: Do you use a metronome?
+
+**JGe**: I almost never use a metronome. And sometimes I'm off tempo.
+
+On Bernstein/Gershwin
+
+**JGe**: I think Gershwin and Bernstein is more difficult. You have a
+lot of player playing difficult things which they are not always used
+to. And then you have the percussion as real percussion. With the
+acoustics and distance it is less compelling. With the jazz/soul/pop it
+is more clear.
+
+With Bernstein and Gershwin you have to lead a little bit more as a
+conductor. And get everybody to hear the percussion is the same way.
+That are difficult things. There are two worlds who make a new world. 
+
+Advise:
+
+**MA**: What advice would you give to a drummer?
+
+**JGe**: Don't wait and see, but take initiative. Take your role. Be the
+timekeeper just as in a band, it's just bigger. Otherwise the conductor
+waits.
+
+Know your tempo's and know the pieces. Most of the time the drummers
+know best.
+
+Appendix L. Interview during lessons Jim Gwin
+=============================================
+
+This is a summary of 6 hours of drum lessons and interview I had with
+Jim Gwin on May 16, 17 and 18 of 2019. We had the lesson in a room at
+the New England Conservatory in Boston (MA)
+
+We worked on some of the existing parts of Bernstein and Gershwin and
+reflected on the rehearsal and concert Jim played, and I watched, with
+the Boston Pops Orchestra that week.
+
+Interviewer: Martin Ansink (MA)
+
+Interviewee: Jim Gwin (JG) Drummer
+
+On choice of Instruments:
+
+We talked about the choice of setup for BSO programs related to the
+styles. Because of the diversity of these programs with pieces of
+different time periods you have to find a set which is 'in the middle'.
+You try to be authentic if possible. For a Beatles program you try to
+use bigger drums and lower tuning than playing a complete jazz oriented
+program. 
+
+Drums sound always bad when playing outside.
+
+On interpretation and preparation:
+
+**JG**: Listen to the songs they send you. Figure out what to do. When
+played live the songs are probably played faster than in the studio
+recording. I don't know but I think because of energy. Be prepared for
+this, I do write it in the parts for next time. Keep an open mind and
+keep learning.
+
+**MA**: What do you do when dealing with original parts which have
+overdubs?
+
+**JG**: You can't play that by your own. Make up something different. I
+have to do that a lot of times. Get the feel, but don't get all the
+details.
+
+I had to play on V-drums and I didn't know anything about that. I got
+them a week before and worked it out,. The arranger wanted a particular
+sound. At the rehearsal they didn't turn on the headphones and I and the
+rest of the band couldn't hear what I was doing. I had to play the rest
+program also on this thing, but I would not do that, I can't play In the
+Mood on these things.
+
+On conductor, drummer and soloist
+
+Jim reflects on the relationship between drummer, guest artist and
+conductor.
+
+**JG**: It is about connection, trust and communication. Sometimes you
+have to be in charge and sometimes you have to let things happen and
+slide around. Sometimes you just can't fix it. If things go bad you just
+have to simplify and play louder.
+
+Keith Lockhart (conductor BPO) uses a metronome when the artist is
+particular about the tempo, or checks with Jim before starting. J.G.:
+"You've got to know what the groove is before you start. Know at what
+tempo it feels best. If the singer starts you can tell immediately if
+they want it slower or faster, they don't even know that they are doing
+it. You can tell if they are comfortable, Adjust, Don't Fight"
+
+Some soloists are particular and do want to have exact tempos. If that
+is the case I do use a metronome.
+
+On drummer and orchestra
+
+**JG**: Orchestra is the hardest thing, it's like a different animal,
+that like people that are playing stuff but don't have any idea how it
+is supposed to sound like. They don't know what swing is, you have to
+give the illusion that it sounds good. An orchestra is never gone swing
+like a band. With a 'good' band it's easy. The time is so good that you
+don't have to worry about holding it together. You can concentrate on
+feel. Orchestral timing is all over the place. It never settles.
+
+There are some younger guys who can do it. And also improvise.
+
+I Normally play my bass drum soft but bass players in the orchestra can
+be far away, I can't hear them anyway, so I play the bass drum louder.
+It sounds obnoxious. This is not necessary when there is a band bass
+player and he is good.
+
+On communication
+
+**JG**: Keith Lockhart trusts me to do the right thing. We work with
+other guest conductors and that is more difficult. Especially the
+beginning of the pieces. I go and talk to them and ask them to give me
+three, four. I go up to them after the rehearsal or in the break. Most
+of the times that works, if they don't want to do that it is a disaster.
+Then I try to figure out where the entrance of the beat is. When it is a
+groove, you have to know what the groove is before you start. It is not
+Mahler. Give a count-in.
+
+On acoustics
+
+**JG**: They put the drums inside a Plexiglas box for the sound. That
+makes it very hard for me to hear the orchestra without monitoring. It
+is important to be in the right spot to be able to hear everything what
+is going around you. They don't always want you to move during a
+concert, but that should happen sometimes.
+
+On musical Skills
+
+**JG**: Play with as much feel as you can and in the right style. Have a
+specific drummer in mind when you play a beat. The feet (hi-hat and the
+bass drum) are the basis of the beat. And the anchor for the orchestra.
+Your right foot is the whole thing. And left too, but more right. Focus
+on that. The other stuff will fall into place. I always think about that
+more than the rest. Start a piece with a 'big bang'. So everyone knows
+where the 'one' is.
+
+If the orchestra start shifting of the beat, simplify your beat and I do
+play the bass drum a little stronger
+
+On Fills: you have to make a crescendo when you go down. Something that
+is higher can be softer than lower tuned toms.
+
+On technical skills
+
+**JG**: I care about feel and sound. Nothing else, I don't care about
+technique. If I feel I'm struggling when I'm playing I'm concentrating
+too much on what I'm doing. Let things happen.
+
+I love Steve Gadd, he lets it happen. Famous quote: "I let the music
+play me"
+
+On personal skills
+
+**JG**: Listening skills are important. You are the determining factor
+of the rhythm section. Every change goes through you. Be flexible and
+make the soloist, other players, play better. Catch them if necessary.
+
+Be nice to people. I don't want to make anybody upset, I doesn't help
+anything.
+
+Last night there was a pattern I had to play together with the piano
+player in front of the orchestra. But they forgot to turn my monitor on.
+I told them to put it up, but he said: "just follow the stick". It's
+terrible but I let it go, and remind them next time.
+
+On education:
+
+Jim did not have drum lessons, only classical percussion. He played
+drums from 5 years old. And played a lot of wedding gigs from the age of
+13.
+
+**JG**: You learn a lot, especially what not to do. You play too much
+and they say: "don\'t!"
+
+Tips:
+
+**JG**: Practice with play along: Meet the bass player, Oscar Peterson
+trio (no drums) (For example: Stan Getz and the Oscar Peterson trio
+1958)
+
+References:
+
+We listened to drummers that Jim listens and refers to when interpreting
+the drum part.
+
+He tries to get the right feel for any song and copies their style.
+Sometimes even special gestures like the raised shoulder of Bernard
+Purdie when he plays a shuffle.
+
+For the feel of "On the Town" by Gershwin het uses Apple Honey by Woody
+Herman and his Thundering Herds record with Davey Tough, a favorite of
+Buddy Rich and Gene Krupa, on drums. J.G: "He plays underneath but so
+strong".
+
+Other references for Rock songs for getting the right feel and sound
+are: Rock Steady from Aretha Franklin and O-o-h Child Five by
+Stairsteps.
+
+We listened and compared different recordings of the West Side Story and
+Jim explained and showed the way he interprets these parts. The result
+of this can be found in [Chapter
+6](#interpretation-and-preparation-of-parts) Interpretation and
+Preparations of parts.
+
+[]{#_Toc38200943 .anchor}**Bibliography\
+**
+
+Abel Mark (2014) Chapter1 *What is Groove*
+
+Barrett (2000)
+
+Beckett (2008) *Quality management practice*
+
+Blades, J.(Revised Edition 1992). *Percussion Instruments and their
+History.* Westport Connecticut, The Bolt Strummer, LTD
+
+Bleu Monday (Opera) in Wikipedia: Retrieved October 26, 2019
+<https://en.wikipedia.org/wiki/Blue_Monday_(opera)>
+
+Bougon et al. (1977)
+
+Conductor in Wikipedia. retrieved October 20, 2019
+<https://en.wikipedia.org/wiki/Conducting>
+
+Doleac, Benjamin, *Ethnomusicology review*, Western Musical Notation
+volume 18 (2013)
+*[[https://www.ethnomusicologyreview.ucla.edu/journal/volume/18/piece/699]{.underline}](https://www.ethnomusicologyreview.ucla.edu/journal/volume/18/piece/699)
+, retrieved [ ]{.underline} nov 13 2019*
+
+Duguid (2005). *The art of knowing*
+
+Dunbar, B. (2017).*Versatility in the Percussion section*. Percussive
+Notes September
+
+Duque, J. (2017). *The Drummer's role* Kindle edition
+
+Feather, L. (1957.) *The Book of Jazz.* New York: Horizon Press
+
+Gottlieb, D. (2010). *The Evolution of Jazz Drumming*. Milwaukee, Hudson
+Music LLC
+
+Hager, P. and Johnssona, Mary C. (Received 23 October 2008; final
+version received 31 March 2009). *Learning to become a professional
+orchestral musician: going beyond skill and technique*. Published in
+Journal of Vocational Education and Training 61(2):
+
+Hatch, M.J. (1999) *Empty spaces of Organizing*
+
+Kate Rigs Permalink. (2012). *Open Culture*, September 4, on Thelonious
+Monk [ ]{.underline}
+[**http://www.openculture.com/2012/09/thelonious\_monk\_scribbles\_a\_list\_of\_tips\_for\_playing\_a\_gig.html**](http://www.openculture.com/2012/09/thelonious_monk_scribbles_a_list_of_tips_for_playing_a_gig.html)
+Retrieved January 7, 2020
+
+King, B. (February 1, 2009). *La Scena Musicale* [\"American symphonic
+jazz: an excursion into the geography of
+music\"](http://www.scena.org/lsm/sm6-5/jazz.html). Retrieved January 7,
+2020 <http://www.scena.org/lsm/sm6-5/jazz.html>
+
+Koivunen, N. (2002). *Organizational Music the Role of Listening in
+Interaction Processes*
+
+Koivunen, N (2003). *Leadership in symphony Orchestra's*
+
+Krogh (von), Ichijo and Nonaka (2000). *Enabling knowledge creation*
+
+Ludwig Sr, William F. "67 Years of drum Pedals" The Ludwig drummer
+(Spring 1962).
+
+Nonaka and Takeuchi (1995) The knowledge creating company
+
+Nordström (1997). [***Kaikki
+musiikista***](https://scholar.google.nl/scholar?cluster=1162185501883312528&hl=nl&as_sdt=2005&sciodt=0,5)
+(p 110)
+
+Origin and Chart Information: (2005). *I Got Rhythm.* JazzStandards.com.
+Retrieved January 7 2020 .
+<http://www.jazzstandards.com/compositions-0/embraceableyou.htm>
+
+Polanyi (1983)
+
+Ragtime. in Wikipedia, retrieved September 12, 2019 from:
+<https://en.wikipedia.org/wiki/Ragtime>
+
+Schultz, T. (1979)., *A History of Jazz drumming*. Percussive notes 16,
+no 3.
+
+Scott, J. (2009). *Gids voor drummers*. Veltman uitgevers, Netherlands.
+Original title: Learn to play drums, Chartwell Books, Inc. (2008)
+
+Spagnardi, R. (August 1, 2000). *The Big Band Drummer: A Complete
+Workbook for Improving Big Band Drumming Performance*. Modern Drummer
+Publications; Spi edition
+
+West Side Story Archives: *Shelly Manne*[,]{.underline} retrieved
+November 13, 2019. <https://www.westsidestory.com/credits>
+
+Wigglesworth, M. (2018). *The Silent Musician* London, UK, Faber &
+Faber.
+
+**Bibliography Video**
+
+Gustavo Morales Battaglini. (Oktober 17, 2017) West Side Story Original
+Soundtrack GMB West Side story Orchestra, Johnny Green. Retrieved
+January 7, 2019 <https://www.youtube.com/watch?v=Z7OHCrp13Ho>
+
+Kadoguy, (December 4, 2016). George Gershwin's Blue Monday" (radio
+premiered 1954). Retrieved January 7, 2020.
+[[https://www.youtube.com/watch?v=IEIpWU47GLw]{.underline}](https://www.youtube.com/watch?v=IEIpWU47GLw)
+
+Pritch818, (November 30, 2018). Bernstein in World of Jazz FB. Retreived
+January 7 2020.
+[[https://www.youtube.com/watch?v=pisSH7X09Ac]{.underline}](https://www.youtube.com/watch?v=pisSH7X09Ac)
+
+70Tamas, (July 20, 2010). Gershwin Porgy and Bess - A Woman is a
+sometime thing. Retrieved January 7, 2020.
+<https://www.youtube.com/watch?v=ldPuFA0PG8k>
+
+70Tamas, (July 20, 2010). Gershwin Porgy and Bess - Oh I can't sit down.
+Retrieved January 7, 2020. <https://www.youtube.com/watch?v=CtqDjCPqrIw>
+
+70Tamas, (July 2, 2010) Gershwin: Porgy and Bess -There\'s a boat dat\'s
+leaving soon for New York (Damon Evans). Retrieved January 7, 2020
+<https://www.youtube.com/watch?v=lh5ijrsHx5Q>
+
+70Tamas, (July 1, 2010). Gershwin: Porgy and Bess - Oh Lawd, I\'m on my
+way (Willard White) Retrieved January 7, 2020
+<https://www.youtube.com/watch?v=9ptttSZfT6M>
+
+Visilab, (April 30, 2009). It ain't necessarily so from Porgy and Bess,
+Retrieved on January 7, 2020
+<https://www.youtube.com/watch?v=kP5O_NUhrK0>
+
+Varadero1839, (October 6, 2009) What you want with Bess? -- Gregg Baker
+and Cynthia Haymon <https://www.youtube.com/watch?v=E-IhpO4NiMg>
+
+Varadero1839, (October 9, 2009). A Red-Headed Woman - Gregg Baker and
+company. <https://www.youtube.com/watch?v=Am6L7X3GlYo>
+
+Leonard Bernstein -- Onderwerp. (January 2 2012). Trouble in Tahiti
+--Opera in 7 Scenes: Prelude: Daa-Doa Day ... Mornin'Sun Kisses the
+Window, Retrieved January 7, 2020.
+<https://www.youtube.com/watch?v=-drPgEtRTFU>
+
+Leonard Bernstein -- Onderwerp. (January 18 2018). Trouble in Tahiti
+--Opera in 7 Scenes: I. How could you say the thing that you did,
+
+<https://www.youtube.com/watch?v=6gdMWjTOFjg>
+
+Leonard Bernstein -- Onderwerp. (January 18 2018). Trouble in Tahiti
+--Opera in 7 Scenes : II. Yes? Oh mister Partridge. Retrieved January 7,
+2020
+
+<https://www.youtube.com/watch?v=4GpiFs8YYTs>
+
+Leonard Bernstein -- Onderwerp. (January 18 2018). Trouble in Tahiti
+--Opera in 7 Scenes: VI. What a movie scene. Retrieved January 7, 2020
+<https://www.youtube.com/watch?v=btAAj90c4DM>
+
+Leonard Bernstein -- Onderwerp. (January 18 2018). Trouble in Tahiti
+--Opera in 7 Scenes : V. There is a law. Retrieved January 7, 2020
+<https://www.youtube.com/watch?v=X8ZvuiQxVXU>
+
+Leonard Bernstein -- Onderwerp. (January 18 2018). Trouble in Tahiti
+--Opera in 7 Scenes: VII. Evenin' shadows are spreadin' softly Retrieved
+January 7, 2020 <https://www.youtube.com/watch?v=AVGWSdnxpwA>
+
+Classical Records. (July 18 2011). Bernstein Conducts Bernstein -- On
+the Town (Ballet Music). Retrieved January 7, 2020.
+[[https://www.youtube.com/watch?v=A2glmS40fJ4]{.underline}](https://www.youtube.com/watch?v=A2glmS40fJ4)
+
+Edo de Waart -- Onderwerp. (April 10 2017). On the Town -- 3 dance
+Episodes: I. The Great Lover. Retrieved January 7, 2020.
+<https://www.youtube.com/watch?v=FjxqZKWOxKg>
+
+Edo de Waart -- Onderwerp. (April 10 2017). On the Town -- 3 dance
+Episodes: 3. The Great Lover. Retrieved January 7, 2020.
+<https://www.youtube.com/watch?v=drhKq0Eawzk>
+
+Sonny Beech. (January 1, 2012). Bernstein, L. -- Dance Episodes from 'On
+the Town'- 1. The Great Lover[.]{.underline} Retrieved January 7, 2020.
+<https://www.youtube.com/watch?v=kTpa3MKBCgE>
+
+Sonny Beech. (January 1, 2012). Bernstein, L. -- Dance Episodes from 'On
+the Town'- 3. The Great Lover[.]{.underline} Retrieved January 7, 2020.
+<https://www.youtube.com/watch?v=G7UlCYj0El0>
+
+Ofir. 18 (November 2011). West Side story - Simon Bolivar Youth
+Orchestra of Venezuela -- Dudamel 2007. Retrieved November 6, 2019
+
+<https://www.youtube.com/watch?v=UjNi1dkvTcw>
+
+**Bibliography Audio**
+
+Spotify, (2006). EMI Records Ltd/Virgin Classics. City of Birmingham
+Symphony orchestra, Paavo Järvi. 1998 Symphonic Dance of West Side
+Story. Retrieved November 6, 2019
+
+Spotify, (1964). Sony BMG Music Entertainment New York Philharmonic,
+Leonard Bernstein. Original released 1961. Symphonic Dances of West Side
+Story Retrieved November 6 2019.
+
+Spotify, Transart Live. David Wroe and Orchestre National de Lille,
+Gershwin: Porgy and Bess: A Symphonic Picture. Retreived January 7, 2020
+
+[^1]: <https://www.residentieorkest.nl/en/>
+
+[^2]: <https://www.residentieorkest.nl/en/symphonic-junction/>
+
+[^3]:  In the standard symphonic orchestral repertoire regarded as
+    standard percussion instruments are: timpani, snare drum, bass drum
+    and cymbals. Mallet instruments: xylophone, glockenspiel, vibraphone
+    and small auxiliary instruments like triangle, tambourine and
+    castagnettes.
+
+[^4]: Versatility in the Percussion section by Braham Dunbar. Percussive
+    Notes September 2017
+
+[^5]: The Boston Pops Orchestra is an American orchestra based in
+    Boston, Massachusetts that specializes in playing light classical
+    and popular music. The Boston Pops was founded in 1885 as a second,
+    popular identity of the Boston Symphony Orchestra (BSO) Consisting
+    primarily of musicians from the BSO, the orchestra performs a Spring
+    season of popular music and a holiday program in December.
+    Identified with its long-time director Arthur Fiedler, in the past
+    the orchestra has recorded extensively, made frequent tours, and
+    appeared regularly on television. The Pops Spring and Holiday
+    seasons allowed the BSO to become one of the first American
+    orchestras to provide year-round employment for its musicians.
+
+    The current Music Director of the Boston Pops is Keith Lockhart.
+    <https://www.bso.org/Home>
+
+[^6]: Boston Pops Esplanade Orchestra is similar to the BPO, only also
+    consisting of other non Boston Symphony Orchestra Members.
+
+[^7]: New England Conservatory <https://necmusic.edu/>
+
+[^8]: [Appendix G. My observations on rehearsals and
+    concerts](#appendix-g.-my-observations-on-rehearsals-and-concerts)
+
+[^9]: [Appendix L. Interview during lessons Jim
+    Gwin](#appendix-l.-interview-during-lessons-jim-gwin)
+
+[^10]: [Summary of the necessary technical and musical
+    demands](#summary-of-the-necessary-technical-and-musical-demands)
+
+[^11]: The greats: *The drummers who took a big part in the evolution of
+    drums and are an inspiration for all other drummers*
+
+[^12]: "The Drummer's role" by Jose Roman Duque p 77- 134 Kindle edition
+    (2017)
+
+[^13]: Abel Mark 2014 Chapter 1 What is Groove, p 14
+
+[^14]: [Appendix H. Interview Hans
+    Leenders](#appendix-h.-interview-hans-leenders) [Appendix K.
+    Interview Joost Gevers](#appendix-k.-interview-joost-gevers)
+
+[^15]: Wikipedia, September 12, 2019
+
+[^16]: Schultz, Thomas, A History of Jazz drumming. Percussive notes 16,
+    no 3 (1979). p 106 - 132
+
+[^17]: William F. Ludwig, Sr. "67 Years of drum Pedals" The Ludwig
+    drummer, Spring 1962. p 5-7
+
+[^18]: Blades, James, Percussion Instruments and their History. p 459
+
+[^19]: Gottlieb, Danny, The Evolution of Jazz Drumming. p 23
+
+[^20]: Schultz, Thomas, A History of Jazz drumming. Percussive notes 16,
+    no 3 (1979). p 106 - 132
+
+[^21]: Feather, Leonard, *The Book of Jazz* (New York: Horizon Press,
+    1957). p 124.
+
+[^22]: Scott, Justin, Gids voor drummers, Veltman uitgevers, Netherlands
+    (2009). Original title: Learn to play drums, Chartwell Books, Inc.
+    (2008)
+
+[^23]: Schultz, Thomas, A History of Jazz drumming. Percussive notes 16,
+    no 3 (1979). p 106 - 132
+
+[^24]: Origin and Chart Information: I Got Rhythm.\" JazzStandards.com,
+    2005. Retrieved January 7, 2020
+    <http://www.jazzstandards.com/compositions-0/embraceableyou.htm>
+
+[^25]: Schultz, Thomas, A History of Jazz drumming. Percussive notes 16,
+    no 3 (1979). p 106 - 132
+
+[^26]: Blue Monday. Premiered in 1954 on NBC Radio.
+    [[https://www.youtube.com/watch?v=IEIpWU47GLw]{.underline}](https://www.youtube.com/watch?v=IEIpWU47GLw)
+
+[^27]:  King, Betty (2009-02-01*). [\"American symphonic jazz: an
+    excursion into the geography of
+    music\"](http://www.scena.org/lsm/sm6-5/jazz.html). *La Scena
+    Musicale *Retrieved 2009-11-22.*
+    <http://www.scena.org/lsm/sm6-5/jazz.html>
+
+[^28]: Bleu Monday <https://en.wikipedia.org/wiki/Blue_Monday_(opera)>
+    retrieved October 26, 2019
+
+[^29]: Bernstein in World of Jazz on ABC in 1955.
+    [[https://www.youtube.com/watch?v=pisSH7X09Ac]{.underline}](https://www.youtube.com/watch?v=pisSH7X09Ac)
+
+[^30]: Shelly Manne [https://www.westsidestory.com/credits retrieved
+    November
+    15](https://www.westsidestory.com/credits%20retrieved%20November%2015),
+    2019.
+
+[^31]: Gottlieb, Danny, The Evolution of Jazz Drumming. p 96
+
+[^32]: Hybrid parts: They require playing drum set and other classical
+    percussion instruments in the same part.
+
+[^33]: <https://www.berklee.edu/>
+
+[^34]: <https://necmusic.edu/>
+
+[^35]: 2019-2020: Royal Conservatory The Hague (Jazz drum lessons in
+    BA). Codarts Rotterdam (Not standard included). Conservatory of
+    Amsterdam (Not standard included). Hanze Prins Claus Conservatoire
+    Groningen (two years in BA course) Artez Academy of Music in Arnhem,
+    Zwolle en Enschede (during whole BA course). Conservatorium
+    Maastricht (not standard included).
+
+[^36]: Wikipedia 20-10-2019
+
+[^37]: Koivunen 2003 Leadership in symphony Orchestras, p 67
+
+[^38]: AbelMark 2014
+
+[^39]: Koivunen 2002 Organizational Music the Role of Listening in
+    Interaction Processes, p 102
+
+[^40]: *Published in Journal of Vocational Education and Training 61(2):
+    103--118. Learning to become a professional orchestral musician:
+    going beyond skill and technique Paul Hager∗a and Mary C. Johnssona
+    a Faculty of Arts and Social Sciences, University of Technology,
+    Sydney Faculty of Arts and Social Sciences, UTS, P.O. Box 123,
+    Broadway, NSW 2007, Australia. (Received 23 October 2008; final
+    version received 31 March 2009)*
+
+[^41]: The Drummer's role - J.Duque
+
+[^42]: Marie Jo Hatch 1999, pp. 79--81
+
+[^43]: [**http://www.openculture.com/2012/09/thelonious\_monk\_scribbles\_a\_list\_of\_tips\_for\_playing\_a\_gig.html**](http://www.openculture.com/2012/09/thelonious_monk_scribbles_a_list_of_tips_for_playing_a_gig.html)
+
+[^44]: book The Big Band Drummer: A Complete Workbook for Improving Big
+    Band Drumming Performance, Ron Spagnardi
+
+[^45]: Spotify, 1964 Sony BMG Music Entertainment New York Philharmonic,
+    Leonard Bernstein. Original released 1961. Symphonic Dances of West
+    Side Story Retrieved November 6 2019.
+
+[^46]: [Summary of the necessary technical and musical
+    demands](#summary-of-the-necessary-technical-and-musical-demands)
+
+[^47]: Wigglesworth, M. (2018) The Silent Musician London, UK, Faber &
+    Faber. P 70
+
+[^48]: Sonny Beech. January 1, 2012. Bernstein, L. -- Dance Episodes
+    from 'On the Town'- . The Great Lover[.]{.underline} Retrieved
+    January 7, 2020. <https://www.youtube.com/watch?v=G7UlCYj0El0>
+
+[^49]: *[<https://www.ethnomusicologyreview.ucla.edu/journal/volume/18/piece/699>
+    retrieved]{.underline} November 13, 2019*
+
+[^50]: Edo de Waart -- Onderwerp. April 10 2017. On the Town -- 3 dance
+    Episodes: 3. The Great Lover. Retrieved January 7, 2020.
+    <https://www.youtube.com/watch?v=drhKq0Eawzk>
+
+[^51]: Sonny Beech. January 1, 2012. Bernstein, L. -- Dance Episodes
+    from 'On the Town'- 3. The Great Lover[.]{.underline} Retrieved
+    January 7, 2020. <https://www.youtube.com/watch?v=G7UlCYj0El0>
+
+[^52]: Video of Mel Lewis master class in Hilversum, The Netherlands.
+    1985
